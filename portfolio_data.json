@@ -1,0 +1,1328 @@
+{
+  "personalInfo": {
+    "name": {
+      "ar": "عبدالرحمن عبدالحكيم الحطاب",
+      "en": "Abdulrahman Abdelhakim Al-Hattab"
+    },
+    "title": {
+      "ar": "طالب علوم حاسب ومهندس نظم وبرمجيات كاملة (Full-Stack & Systems Engineer)",
+      "en": "Computer Science Student & Systems / Full-Stack Engineer"
+    },
+    "domain": "abdullrahmanalhatab.com",
+    "location": {
+      "ar": "الرياض، المملكة العربية السعودية",
+      "en": "Riyadh, Saudi Arabia"
+    },
+    "email": "alhatab.edc@gmail.com",
+    "github": "https://github.com/aboodedc",
+    "linkedin": "https://www.linkedin.com/in/abdullrahman-alhatab/",
+    "avatarUrl": "",
+    "socialLinks": {
+      "x_twitter": "",
+      "youtube": "",
+      "discord": "",
+      "telegram": "",
+      "stackoverflow": "",
+      "medium": "",
+      "devTo": "",
+      "instagram": ""
+    },
+    "resumeUrl": {
+      "ar": "https://alhatabisthebest.codes/resume-ar.pdf",
+      "en": "https://alhatabisthebest.codes/resume-en.pdf"
+    },
+    "bio": {
+      "ar": "طالب علوم حاسب وشغوف بهندسة النظم منخفضة المستوى، والأنظمة الموزعة، ومحاكاة العتاد (Emulation)، وتطوير تطبيقات الويب والـ Full-Stack عالية الأداء بمختلف التقنيات الحديثة مثل Next.js، NestJS، Fastify، و C#/.NET و Flutter و Python.",
+      "en": "Computer Science student passionate about low-level systems engineering, distributed architectures, hardware emulation, and building scalable full-stack web and mobile applications using Next.js, NestJS, Fastify, C#/.NET, Flutter, and Python."
+    }
+  },
+  "skills": {
+    "languages": {
+      "title": {
+        "ar": "لغات البرمجة",
+        "en": "Programming Languages"
+      },
+      "items": [
+        {
+          "name": "TypeScript",
+          "experience": "expert"
+        },
+        {
+          "name": "JavaScript",
+          "experience": "expert"
+        },
+        {
+          "name": "C#",
+          "experience": "advanced"
+        },
+        {
+          "name": "Python",
+          "experience": "advanced"
+        },
+        {
+          "name": "Dart",
+          "experience": "intermediate"
+        },
+        {
+          "name": "C++",
+          "experience": "intermediate"
+        },
+        {
+          "name": "Java",
+          "experience": "beginner"
+        },
+        {
+          "name": "SQL",
+          "experience": "intermediate"
+        }
+      ]
+    },
+    "frameworksAndTools": {
+      "title": {
+        "ar": "أطر العمل والأدوات",
+        "en": "Frameworks & Tools"
+      },
+      "items": [
+        {
+          "name": "Next.js",
+          "experience": "expert"
+        },
+        {
+          "name": "React",
+          "experience": "expert"
+        },
+        {
+          "name": "NestJS",
+          "experience": "advanced"
+        },
+        {
+          "name": "Fastify",
+          "experience": "advanced"
+        },
+        {
+          "name": "Node.js",
+          "experience": "expert"
+        },
+        {
+          "name": "Bun",
+          "experience": "advanced"
+        },
+        {
+          "name": ".NET Core",
+          "experience": "advanced"
+        },
+        {
+          "name": "Flutter",
+          "experience": "intermediate"
+        },
+        {
+          "name": "TanStack Start / Query",
+          "experience": "intermediate"
+        },
+        {
+          "name": "TailwindCSS",
+          "experience": "expert"
+        },
+        {
+          "name": "Prisma",
+          "experience": "advanced"
+        },
+        {
+          "name": "TypeORM",
+          "experience": "intermediate"
+        },
+        {
+          "name": "Docker",
+          "experience": "advanced"
+        },
+        {
+          "name": "Git",
+          "experience": "expert"
+        },
+        {
+          "name": "WebRTC",
+          "experience": "advanced"
+        },
+        {
+          "name": "WebSocket",
+          "experience": "advanced"
+        },
+        {
+          "name": "MQTT",
+          "experience": "intermediate"
+        }
+      ]
+    },
+    "infrastructureAndDatabases": {
+      "title": {
+        "ar": "البنية التحتية وقواعد البيانات والبروتوكولات",
+        "en": "Infrastructure, Databases & Protocols"
+      },
+      "items": [
+        {
+          "name": "PostgreSQL",
+          "experience": "advanced"
+        },
+        {
+          "name": "Redis / Upstash",
+          "experience": "advanced"
+        },
+        {
+          "name": "MongoDB",
+          "experience": "intermediate"
+        },
+        {
+          "name": "AWS S3",
+          "experience": "intermediate"
+        },
+        {
+          "name": "ViGEmBus (Virtual Gamepad Emulation)",
+          "experience": "expert"
+        },
+        {
+          "name": "DSU (CemuHook Motion Protocol)",
+          "experience": "advanced"
+        },
+        {
+          "name": "MQTT (HiveMQ / IoT)",
+          "experience": "intermediate"
+        },
+        {
+          "name": "Linux",
+          "experience": "advanced"
+        },
+        {
+          "name": "Docker",
+          "experience": "advanced"
+        }
+      ]
+    },
+    "csFundamentals": {
+      "title": {
+        "ar": "أساسيات علوم الحاسب",
+        "en": "Computer Science Fundamentals"
+      },
+      "items": [
+        {
+          "name": {
+            "ar": "الأنظمة الموزعة والتواصل اللحظي (WebRTC / WebSockets)",
+            "en": "Distributed Systems & Real-Time Communication (WebRTC / WebSockets)"
+          },
+          "experience": "expert"
+        },
+        {
+          "name": {
+            "ar": "هندسة المحاكاة وتفاعل العتاد (Hardware Emulation & Virtual Controllers)",
+            "en": "Hardware Emulation & Virtual Controllers Interaction"
+          },
+          "experience": "expert"
+        },
+        {
+          "name": {
+            "ar": "هياكل البيانات والخوارزميات والتخزين المؤقت (Caching Algorithms)",
+            "en": "Data Structures, Algorithms & Caching Mechanics"
+          },
+          "experience": "advanced"
+        },
+        {
+          "name": {
+            "ar": "أمان واستقرار واجهات البرمجيات وضبط المعدل (Rate Limiting & Token Auth)",
+            "en": "API Security, Rate Limiting & Authentication Protocols"
+          },
+          "experience": "advanced"
+        },
+        {
+          "name": {
+            "ar": "معمارية الأنظمة والميكروسيرفيس (Clean Architecture & Modular Backend)",
+            "en": "Clean Architecture & Modular Backend Design"
+          },
+          "experience": "advanced"
+        }
+      ]
+    }
+  },
+  "projects": [
+    {
+      "id": "vgamepad-web",
+      "type": "project",
+      "source": "github",
+      "visibility": "public",
+      "title": {
+        "ar": "VGamepadWeb — محاكي ذراع التحكم اللاسلكي عبر المتصفح",
+        "en": "VGamepadWeb — Browser-Based Wireless Gamepad Controller"
+      },
+      "subtitle": {
+        "ar": "تحويل الهاتف أو أي متصفح إلى يد تحكم ألعاب Xbox فعلية بزمن استجابة فائق السرعة",
+        "en": "Turn any mobile browser into a low-latency virtual Xbox gamepad for PC"
+      },
+      "description": {
+        "ar": "نظام متقدم يربط متصفح الهاتف بنظام ويندوز لمحاكاة وحدة تحكم Xbox 360 أصلية عبر ViGEmBus. يبث إشارات التحكم بحركة الأزرار ومستشعرات الدوران لحظياً عبر WebRTC و WebSockets بأقل زمن تأخير ممكن دون الحاجة لتثبيت أي تطبيقات إضافية على الهاتف.",
+        "en": "A cutting-edge platform turning any phone or browser into a wireless PC gamepad without installs. Runs a Windows server emulating physical Xbox controllers via ViGEmBus, streaming high-frequency inputs over WebSockets and WebRTC Data Channels with ultra-low latency."
+      },
+      "timeline": {
+        "startDate": "2024-06",
+        "endDate": null,
+        "isOngoing": true,
+        "displayDate": {
+          "ar": "يونيو 2024 - مستمر",
+          "en": "Jun 2024 - Present"
+        }
+      },
+      "tags": [
+        "C#",
+        ".NET",
+        "TypeScript",
+        "WebRTC",
+        "WebSockets",
+        "ViGEmBus",
+        "Virtual Hardware",
+        "Full-Stack"
+      ],
+      "githubUrl": "https://github.com/aboodedc/VGamepadWeb",
+      "liveDemoUrl": null,
+      "featured": true,
+      "date": "2024 - 2026",
+      "status": {
+        "key": "in_progress",
+        "ar": "قيد التطوير والتحديث",
+        "en": "In Active Development"
+      },
+      "completionPercentage": 95,
+      "tier": "medium",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "مشروع متوسط",
+        "en": "Medium Project"
+      },
+      "metrics": {
+        "stars": 1,
+        "techComplexity": "High (WebRTC, Windows Kernel Drivers, C#, WebSockets)",
+        "scale": "Cross-Platform System (Web + Desktop OS)"
+      },
+      "problem": {
+        "ar": "الحاجة إلى يد تحكم ألعاب فيزيائية للكمبيوتر باهظة الثمن أو غير متوفرة دائماً أثناء التنقل، بينما تتطلب تطبيقات تحويل الهاتف الحالية تثبيت برامج وتطبيقات معقدة على كل من الهاتف والكمبيوتر، مع معاناة من تأخير الإدخال (Input Lag) المرتفع وانقطاع الاتصال.",
+        "en": "Physical PC gamepads are expensive and not always readily available on the go. Existing smartphone controller apps require cumbersome app-store installs on mobile devices, tedious pairing, and frequently suffer from high input latency and jitter over local networks."
+      },
+      "solution": {
+        "ar": "ابتكار نظام بدون تثبيت على الهاتف: مجرد فتح صفحة ويب في المتصفح تتصل بخادم محلي خفيف على ويندوز عبر WebRTC Data Channels و WebSockets لنقل حركة الأزرار بزمن استجابة فائق السرعة، مع محاكاة يد تحكم Xbox 360 أصلية على مستوى التعريفات عبر ViGEmBus.",
+        "en": "Engineered a zero-install browser solution: simply opening a local web address turns any smartphone browser into a controller. Streams button inputs and motion telemetry over low-latency WebRTC data channels directly to a lightweight Windows server, which simulates native Xbox 360 gamepad hardware via kernel-level ViGEmBus drivers."
+      },
+      "sector": {
+        "key": "gaming_systems",
+        "ar": "أنظمة ألعاب وتقنية ترفيهية",
+        "en": "Gaming & Entertainment Systems"
+      },
+      "impactArea": [
+        "entertainment",
+        "open_source"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": true
+    },
+    {
+      "id": "smart-rate-review",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private_or_team",
+      "title": {
+        "ar": "منصة التقييم الذكي — Smart Rate & Review Platform",
+        "en": "Smart Rate & Review Platform (TapTag-SmartRate)"
+      },
+      "subtitle": {
+        "ar": "منظومة متكاملة لجمع تقييمات وخدمات العملاء عبر بطاقات NFC وتحليلات فورية مدعومة بالذكاء والأمان",
+        "en": "End-to-end NFC-based customer service platform with automated reviews and analytics"
+      },
+      "description": {
+        "ar": "منصة ويب متكاملة مبنية باستخدام Next.js 16 و React 19 وقاعدة بيانات PostgreSQL مع Prisma ORM. تتضمن حماية متقدمة للطلبات عبر Upstash Redis Rate Limiting، وتخزين سحابي للوسائط مع AWS S3، وواجهات مستخدم متجاوبة فائقة الدقة باستخدام Tailwind CSS و Radix UI.",
+        "en": "A comprehensive customer feedback ecosystem built with Next.js 16, React 19, Prisma ORM, and PostgreSQL. Features distributed rate limiting via Upstash Redis, media asset storage with AWS S3, secure authentication, and modern responsive UI."
+      },
+      "timeline": {
+        "startDate": "2024-01",
+        "endDate": "2025-05",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "يناير 2024 - مايو 2025",
+          "en": "Jan 2024 - May 2025"
+        }
+      },
+      "tags": [
+        "Next.js 16",
+        "React 19",
+        "PostgreSQL",
+        "Prisma",
+        "Redis / Upstash",
+        "AWS S3",
+        "NFC Tech",
+        "TypeScript"
+      ],
+      "githubUrl": "https://github.com/aboodedc/smart_rate_review",
+      "liveDemoUrl": null,
+      "featured": true,
+      "date": "2024 - 2025",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل وجاهز للإنتاج",
+        "en": "Completed / Production-Ready"
+      },
+      "completionPercentage": 100,
+      "tier": "major",
+      "isMajor": true,
+      "highlightBadge": {
+        "ar": "مشروع رئيسي متكامل (Enterprise Full-Stack)",
+        "en": "Enterprise Full-Stack"
+      },
+      "metrics": {
+        "techComplexity": "High (Next.js 16, Prisma, PostgreSQL, Upstash Redis, AWS S3)",
+        "scale": "Full Production SaaS"
+      },
+      "problem": {
+        "ar": "صعوبة جمع تقييمات موثوقة من العملاء داخل المتاجر والمطاعم بشكل فوري قبل مغادرتهم، وخطر التقييمات العشوائية أو هجمات التكرار وحرمان الخدمة (Spam / Abuse)، إضافة إلى الحاجة لتخزين وتوثيق الفواتير والوسائط بسرعة وأمان.",
+        "en": "Difficulty in capturing in-store customer feedback and authentic Google reviews in real time before customers depart. Furthermore, public-facing review portals are vulnerable to spam, automated flooding, and heavy storage overhead for proof receipts and media."
+      },
+      "solution": {
+        "ar": "بناء منصة متكاملة تفعل التقييم اللحظي عبر مسح بطاقات NFC، مع توجيه ذكي للتقييمات الإيجابية وتجميع الملاحظات، مدعومة بنظام Upstash Redis Rate Limiter لمنع التكرار والاحتيال، وتخزين سحابي مباشر على AWS S3 مع إدارة بيانات مرنة وفائقة السرعة عبر Prisma و PostgreSQL.",
+        "en": "Built an NFC-tap customer feedback and routing platform. Integrates Upstash Redis distributed sliding-window rate limiting to block spam/abuse, offloads media assets securely to AWS S3, and manages high-throughput feedback pipelines using Next.js 16, React 19, Prisma ORM, and PostgreSQL."
+      },
+      "sector": {
+        "key": "commercial_enterprise",
+        "ar": "حلول تجارية ومؤسسية",
+        "en": "Commercial & Enterprise Solutions"
+      },
+      "impactArea": [
+        "commercial",
+        "institutional_building"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": true
+    },
+    {
+      "id": "waqf-app-ecosystem",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private",
+      "title": {
+        "ar": "منظومة تطبيق الوقف — نظام إدارة وسجلات أوقاف متكامل",
+        "en": "Waqf Management Platform & Architecture (NestJS & Next.js)"
+      },
+      "subtitle": {
+        "ar": "بنية تحتية كاملة لإدارة السجلات الوقفية والتقارير المالية والوثائق",
+        "en": "Comprehensive endowment and estate records management ecosystem"
+      },
+      "description": {
+        "ar": "نظام شامل لإدارة الأوقاف يضم واجهة خلفية عالية الأداء مبنية باستخدام NestJS مع إطار Fastify وقاعدة بيانات PostgreSQL و TypeORM، مع تكامل Swagger، تصدير ملفات ExcelJS، وتخزين وثائق على AWS S3، مع واجهة إدارة مبنية بأحدث تقنيات Next.js.",
+        "en": "Enterprise-grade endowment management platform featuring a high-performance NestJS backend powered by Fastify, TypeORM, and PostgreSQL. Incorporates Swagger API documentation, ExcelJS reporting, S3 document storage, and an administrative frontend built with Next.js."
+      },
+      "timeline": {
+        "startDate": "2025-04",
+        "endDate": "2026-04",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "أبريل 2025 - أبريل 2026",
+          "en": "Apr 2025 - Apr 2026"
+        }
+      },
+      "tags": [
+        "NestJS",
+        "Fastify",
+        "TypeORM",
+        "PostgreSQL",
+        "Next.js",
+        "AWS S3",
+        "TypeScript",
+        "Enterprise Architecture"
+      ],
+      "githubUrl": "https://github.com/aboodedc/waqf_app",
+      "liveDemoUrl": null,
+      "featured": true,
+      "date": "2025 - 2026",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل البنية الأساسية",
+        "en": "Core Architecture Completed"
+      },
+      "completionPercentage": 95,
+      "tier": "major",
+      "isMajor": true,
+      "highlightBadge": {
+        "ar": "مشروع مؤسسي ضخم (Enterprise Architecture)",
+        "en": "Enterprise Architecture"
+      },
+      "metrics": {
+        "techComplexity": "High (NestJS, Fastify, TypeORM, Swagger, ExcelJS, Next.js)",
+        "scale": "Enterprise Multi-Tier System"
+      },
+      "problem": {
+        "ar": "إدارة الأوقاف والسجلات العقارية تعاني تقليدياً من التشتت الورقي، وصعوبة تتبع الصكوك والمستندات المالية الضخمة، واختناقات الأداء في الخوادم عند استخراج التقارير والتدقيق المالي الشامل لمئات الأعيان الوقفية.",
+        "en": "Endowment and trust estate management traditionally struggles with scattered documentation, slow deed verification, lack of audit trails, and server bottlenecks when generating large-scale financial reports across numerous assets."
+      },
+      "solution": {
+        "ar": "تأسيس بنية تحتية برمجية مؤسسية قائمة على NestJS و Fastify لمعالجة آلاف الطلبات بأعلى سرعة وأقل استهلاك للموارد، مع ربط PostgreSQL عبر TypeORM، وأرشفة آمنة للوثائق على AWS S3، وتوليد فوري لتقارير إكسل المعقدة عبر ExcelJS، مع واجهة إدارة موحدة بـ Next.js.",
+        "en": "Designed an enterprise-grade modular architecture powered by NestJS and Fastify for maximum throughput and minimal overhead. Incorporated PostgreSQL with TypeORM, secure multi-tenant S3 document archiving, automated ExcelJS ledger generation, and a centralized administrative dashboard in Next.js."
+      },
+      "sector": {
+        "key": "islamic_institutional",
+        "ar": "شرعي / مؤسسي — إدارة أوقاف",
+        "en": "Islamic / Institutional — Endowment Management"
+      },
+      "impactArea": [
+        "islamic_sharia",
+        "institutional_building"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": true
+    },
+    {
+      "id": "open-door-iot-mqtt",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private",
+      "title": {
+        "ar": "نظام فتح الأبواب الذكي عبر إنترنت الأشياء (IoT Smart Door Lock)",
+        "en": "IoT Smart Door Access System (Flutter & ESP8266 MQTT)"
+      },
+      "subtitle": {
+        "ar": "تطبيق هاتف مع عتاد مدمج للتحكم بفتح الأبواب المنزلية لحظياً عبر بروتوكول MQTT",
+        "en": "Mobile app and hardware controller for secure real-time door unlocking via MQTT"
+      },
+      "description": {
+        "ar": "نظام إنترنت أشياء متكامل يتكون من تطبيق جوال مطور بـ Flutter يتصل بشريحة ESP8266 مبرمجة على Arduino عبر وسيط MQTT (HiveMQ) لإرسال أوامر فتح الأبواب فورياً مع تدابير اتصال مشفرة ومصادقة سريعة.",
+        "en": "Integrated IoT solution utilizing a Flutter mobile client communicating with an ESP8266 micro-controller (Arduino) via MQTT (HiveMQ Cloud Broker) to trigger door access commands instantly and reliably."
+      },
+      "timeline": {
+        "startDate": "2024-12",
+        "endDate": "2025-02",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "ديسمبر 2024 - فبراير 2025",
+          "en": "Dec 2024 - Feb 2025"
+        }
+      },
+      "tags": [
+        "Flutter",
+        "Dart",
+        "IoT",
+        "ESP8266",
+        "Arduino",
+        "MQTT",
+        "C++"
+      ],
+      "githubUrl": "https://github.com/aboodedc/open_door_home",
+      "liveDemoUrl": null,
+      "featured": true,
+      "date": "2024 - 2025",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل ومُختبر في بيئة حية",
+        "en": "Completed & Field Tested"
+      },
+      "completionPercentage": 100,
+      "tier": "highlighted",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "مشروع إنترنت أشياء متميز (IoT & Hardware)",
+        "en": "IoT & Hardware Showcase"
+      },
+      "metrics": {
+        "techComplexity": "Medium-High (Flutter, ESP8266, HiveMQ MQTT, Arduino)",
+        "scale": "Hardware-to-Cloud-to-Mobile"
+      },
+      "problem": {
+        "ar": "الحاجة للتحكم بفتح أبواب المنزل عن بعد دون الاعتماد على مفاتيح فيزيائية قد تُفقد، مع تجنب الأنظمة السحابية التجارية المكلفة أو غير الموثوقة ذات زمن التأخير العالي وانعدام الخصوصية.",
+        "en": "Need for remote, keyless home door access without relying on costly proprietary smart-lock ecosystems that introduce vendor lock-in, privacy concerns, and noticeable triggering lag."
+      },
+      "solution": {
+        "ar": "تطوير تطبيق جوال سريع ومخصص بـ Flutter يتصل بشريحة ESP8266 مدمجة بقفل الباب الكهربائي عبر بروتوكول MQTT خفيف الوزن (HiveMQ Broker)، مما يحقق استجابة فورية وموثوقة لفتح الباب بضغطة زر مع تشفير الأوامر.",
+        "en": "Developed a custom Flutter mobile app linked to an ESP8266 microcontroller embedded in the door lock mechanism via lightweight MQTT messaging (HiveMQ Cloud Broker), achieving instantaneous, encrypted door unlatch triggers within milliseconds."
+      },
+      "sector": {
+        "key": "smart_home_iot",
+        "ar": "منزل ذكي وإنترنت أشياء",
+        "en": "Smart Home & IoT"
+      },
+      "impactArea": [
+        "personal_productivity",
+        "smart_home"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": true
+    },
+    {
+      "id": "quiz-tanstack-start",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private",
+      "title": {
+        "ar": "منصة الاختبارات والمسابقات التفاعلية (Kwizi / Quiz UI)",
+        "en": "Kwizi — Modern Interactive Quiz Platform"
+      },
+      "subtitle": {
+        "ar": "تطبيق مسابقات واختبارات مبني بأحدث تقنيات الـ Full-Stack الحديثة (TanStack Start & Vite 8)",
+        "en": "High-performance quiz platform using TanStack Start SSR, TanStack Router, and Biome"
+      },
+      "description": {
+        "ar": "تطبيق مسابقات متطور مبني بأحدث أدوات الويب الحديثة: TanStack Start SSR مع Vite 8، React 19، TanStack Router و Query لإدارة التوجيه والبيانات اللحظية، وتنسيقات Tailwind CSS v4، مع تدقيق كود سريع باستخدام Biome ومراقبة الأخطاء عبر Sentry.",
+        "en": "Modern interactive quiz application engineered with TanStack Start SSR, Vite 8, React 19, TanStack Router and Query for state management, Tailwind CSS v4, Biome linter, and Sentry telemetry."
+      },
+      "timeline": {
+        "startDate": "2026-05",
+        "endDate": null,
+        "isOngoing": true,
+        "displayDate": {
+          "ar": "مايو 2026 - مستمر",
+          "en": "May 2026 - Present"
+        }
+      },
+      "tags": [
+        "TanStack Start",
+        "React 19",
+        "Vite 8",
+        "TailwindCSS v4",
+        "TanStack Query",
+        "TypeScript",
+        "Biome"
+      ],
+      "githubUrl": "https://github.com/aboodedc/kwizi",
+      "liveDemoUrl": null,
+      "featured": true,
+      "date": "2026",
+      "status": {
+        "key": "in_progress",
+        "ar": "قيد العمل والتطوير",
+        "en": "In Progress"
+      },
+      "completionPercentage": 70,
+      "tier": "highlighted",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "مشروع تقني حديث (Cutting-Edge Stack)",
+        "en": "Cutting-Edge Stack"
+      },
+      "metrics": {
+        "techComplexity": "Medium-High (TanStack Start, Vite 8, React 19, Biome, Sentry)",
+        "scale": "Modern SSR Web App"
+      },
+      "problem": {
+        "ar": "بطء تحميل منصات الاختبارات الإلكترونية التقليدية وثقل حزم الجافاسكريبت، وضعف تجربة المستخدم اللحظية أثناء التنقل بين الأسئلة ومتابعة النتائج التفاعلية.",
+        "en": "Traditional online assessment portals often suffer from bloated client bundles, slow server response times, and poor transitions between interactive exam questions."
+      },
+      "solution": {
+        "ar": "تبني أحدث تقنيات الويب الحديثة (TanStack Start SSR + Vite 8 + React 19) لتحقيق تحميل فوري للصفحات، مع إدارة توجيه متقدمة (TanStack Router & Query)، وتدقيق أداء عالي بالاعتماد على Biome وتتبع الأخطاء الحي عبر Sentry.",
+        "en": "Leveraged cutting-edge full-stack technologies (TanStack Start SSR, Vite 8, React 19) for blazing-fast initial loads and seamless client transitions, coupled with TanStack Router/Query, lightning-fast Biome linting, and real-time Sentry telemetry."
+      },
+      "sector": {
+        "key": "education",
+        "ar": "تعليم واختبارات",
+        "en": "Education & Assessment"
+      },
+      "impactArea": [
+        "education"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": true
+    },
+    {
+      "id": "cemuhook-dsu-motion-server",
+      "type": "project",
+      "source": "local",
+      "visibility": "public_local",
+      "title": {
+        "ar": "خادم محاكاة الحركة ومستشعرات الجيروسكوب (CemuHook DSU Motion Server)",
+        "en": "CemuHook DSU Motion Server for Emulators"
+      },
+      "subtitle": {
+        "ar": "خادم مخصص لبث بيانات الجيروسكوب والتسارع لمحاكيات الألعاب مثل Cemu و Yuzu و Ryujinx",
+        "en": "Custom UDP motion server streaming gyro & accelerometer data to modern console emulators"
+      },
+      "description": {
+        "ar": "تنفيذ برمجي منخفض المستوى لبروتوكول DSU عبر حزم UDP الثنائية، يقوم بحساب وتجميع وتوزيع بيانات مستشعرات الحركة (Gyroscope & Accelerometer) بتردد 120Hz مع تشفير وتوافق CRC32 لتمكين التحكم الحركي في المحاكيات الشهيرة.",
+        "en": "Low-level implementation of the Cemuhook DSU protocol using binary UDP packets with CRC32 checksums. Calculates and streams synthetic or hardware-derived 6-axis gyroscope and accelerometer data at 120Hz to emulators such as Cemu and Ryujinx."
+      },
+      "timeline": {
+        "startDate": "2024-03",
+        "endDate": "2024-05",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "مارس 2024 - مايو 2024",
+          "en": "Mar 2024 - May 2024"
+        }
+      },
+      "tags": [
+        "Python",
+        "Networking",
+        "UDP",
+        "Binary Protocols",
+        "Game Emulation",
+        "DSU Protocol"
+      ],
+      "githubUrl": "https://github.com/aboodedc",
+      "liveDemoUrl": null,
+      "featured": false,
+      "date": "2024",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل ومُجرب",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "standard",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "مشروع أنظمة منخفضة المستوى (Systems & Networking)",
+        "en": "Systems & Networking"
+      },
+      "metrics": {
+        "techComplexity": "High (Binary Packets, UDP, 120Hz Math & Motion Sensors, CRC32)",
+        "scale": "Standalone Protocol Server"
+      },
+      "problem": {
+        "ar": "محاكيات ألعاب الكونسول (مثل Cemu و Ryujinx) تتطلب مستشعرات جيروسكوب وتسارع للتحكم الحركي، ولكن أغلب أذرع التحكم بالحاسب تفتقر لهذه الميزة أو لبروتوكول بث معتمد، مما يمنع تجربة ألعاب الحركة بالكامل.",
+        "en": "Modern console emulators require motion gyro and accelerometer sensor inputs for essential gameplay mechanics, yet standard PC gamepads lack integrated motion sensors or standard streaming protocol support."
+      },
+      "solution": {
+        "ar": "بناء خادم DSU خفيف وعالي التردد بلغة بايثون يبث حزم UDP ثنائية متوافقة تماماً مع CemuHook بتردد 120Hz، مع حساب وتشفير الـ Checksums ومحاكاة زوايا الحركة بدقة فائقة لتمكين اللعب السلس.",
+        "en": "Crafted a high-frequency Python DSU server implementing the CemuHook UDP binary protocol at 120Hz. Accurately synthesizes or translates 6-axis gyroscope and accelerometer data packets with CRC32 verification, providing flawless motion control in emulators."
+      },
+      "sector": {
+        "key": "gaming_systems",
+        "ar": "أنظمة ألعاب ومحاكاة",
+        "en": "Gaming & Emulation Systems"
+      },
+      "impactArea": [
+        "entertainment",
+        "open_source"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "prayer-clock-islamic",
+      "type": "project",
+      "source": "local",
+      "visibility": "public_local",
+      "title": {
+        "ar": "ساعة الصلاة وأوقات الأذان الذكية — Islamic Prayer Clock",
+        "en": "Islamic Prayer Clock & Adhan Display App"
+      },
+      "subtitle": {
+        "ar": "تطبيق ساعة جدارية وشاشات ذكية لعرض أوقات الصلاة والعد التنازلي بدقة عالية",
+        "en": "Smart display and mobile application for astronomical prayer times and countdowns"
+      },
+      "description": {
+        "ar": "تطبيق تم بناؤه بواسطة Flutter متعدد المنصات (شاشات، جوال، ويب) لحساب مواقيت الصلاة الفلكية وعرض الساعات والأذكار بتصميم رقمي متوافق مع مختلف أحجام الشاشات.",
+        "en": "Cross-platform Flutter application tailored for smart displays and tablets calculating astronomical prayer times with countdowns, athan notifications, and responsive UI."
+      },
+      "timeline": {
+        "startDate": "2024-08",
+        "endDate": "2024-11",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "أغسطس 2024 - نوفمبر 2024",
+          "en": "Aug 2024 - Nov 2024"
+        }
+      },
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Mobile App",
+        "Astronomical Calculations",
+        "Cross-Platform"
+      ],
+      "githubUrl": "https://github.com/aboodedc",
+      "liveDemoUrl": null,
+      "featured": false,
+      "date": "2024",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "standard",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "تطبيق جوال وشاشات (Mobile & Display App)",
+        "en": "Mobile & Display App"
+      },
+      "metrics": {
+        "techComplexity": "Medium (Flutter, Astronomical Prayer Calculation algorithms)",
+        "scale": "Cross-platform Application"
+      },
+      "problem": {
+        "ar": "صعوبة الحصول على واجهة عرض مخصصة للشاشات الجدارية والمنازل تحسب مواقيت الصلاة الفلكية الدقيقة محلياً دون الحاجة لاتصال إنترنت دائم، مع توفير واجهة هادئة خالية من التشتيت.",
+        "en": "Lack of dedicated, distraction-free display applications designed for wall-mounted smart screens and tablets that calculate offline astronomical prayer times accurately with real-time athan countdowns."
+      },
+      "solution": {
+        "ar": "تطوير تطبيق Flutter متكامل يدمج خوارزميات الحساب الفلكي الدقيقة مع واجهة رقمية واضحة ومتباينة مخصصة للشاشات، تدعم العمل دون إنترنت مع تنبيهات وعد تنازلي لحظي.",
+        "en": "Built an offline-capable cross-platform Flutter application incorporating astronomical calculation algorithms with a high-contrast, distraction-free UI tailored for tablets and wall clocks."
+      },
+      "sector": {
+        "key": "islamic_spiritual",
+        "ar": "شرعي / روحاني — مواقيت الصلاة",
+        "en": "Islamic / Spiritual — Prayer Times"
+      },
+      "impactArea": [
+        "islamic_sharia",
+        "community_service"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": true
+    },
+    {
+      "id": "whatsapp-ai-bot",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private",
+      "title": {
+        "ar": "بوت واتساب الذكي المدعوم بالذكاء الاصطناعي (WhatsApp AI Bot)",
+        "en": "AI-Powered WhatsApp Bot (Gemini & WhatsApp-Web.js)"
+      },
+      "subtitle": {
+        "ar": "نظام أتمتة محادثات الواتساب مدعوم بنماذج Google Generative AI (Gemini)",
+        "en": "WhatsApp automated messaging bot integrated with Google Gemini AI API"
+      },
+      "description": {
+        "ar": "أداة أتمتة وخدمات ذكية تتصل ببروتوكول واتساب ويب عبر مكتبة whatsapp-web.js وتقوم بمعالجة الرسائل والاستفسارات تلقائياً باستخدام نموذج Google Generative AI (Gemini) مع واجهة خادم Express.",
+        "en": "Automated WhatsApp assistant built with whatsapp-web.js and Express, orchestrating incoming messages and generating contextual intelligent responses via Google Gemini Generative AI API."
+      },
+      "timeline": {
+        "startDate": "2024-07",
+        "endDate": "2024-08",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "يوليو 2024 - أغسطس 2024",
+          "en": "Jul 2024 - Aug 2024"
+        }
+      },
+      "tags": [
+        "TypeScript",
+        "Node.js",
+        "Google Gemini AI",
+        "WhatsApp API",
+        "Automation"
+      ],
+      "githubUrl": "https://github.com/aboodedc/pot_whatsapp_ts",
+      "liveDemoUrl": null,
+      "featured": false,
+      "date": "2024",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "standard",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "أتمتة وذكاء اصطناعي (AI Automation)",
+        "en": "AI Automation"
+      },
+      "metrics": {
+        "techComplexity": "Medium (Google Gemini API, WhatsApp Web Protocol, TypeScript)",
+        "scale": "Automation Service"
+      },
+      "problem": {
+        "ar": "استهلاك وقت وجهد كبير في الرد المتكرر على استفسارات المستخدمين عبر الواتساب بشكل يدوي على مدار الساعة.",
+        "en": "Handling repetitive customer inquiries and messages manually on WhatsApp consumes significant time and creates delay in customer response."
+      },
+      "solution": {
+        "ar": "دمج بروتوكول واتساب ويب (whatsapp-web.js) مع نماذج الذكاء الاصطناعي التوليدي من Google Gemini، لإنشاء بوت محادثة ذكي يفهم سياق الرسائل ويرد بدقة وفورية عبر خادم Node.js.",
+        "en": "Integrated whatsapp-web.js with Google Gemini Generative AI models on a Node.js/Express server, delivering contextual, instant, and automated conversational responses around the clock."
+      },
+      "sector": {
+        "key": "ai_automation",
+        "ar": "ذكاء اصطناعي وأتمتة",
+        "en": "AI & Automation"
+      },
+      "impactArea": [
+        "commercial",
+        "ai_automation"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "restaurant-review-system",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private",
+      "title": {
+        "ar": "نظام إدارة ومراجعات المطاعم (Restaurant Review & Feedback System)",
+        "en": "Restaurant Feedback & Review Backend (Mongoose & Express)"
+      },
+      "subtitle": {
+        "ar": "خادم متكامل لإدارة آراء وتقييمات العملاء وتوليد تقارير Excel المجدولة",
+        "en": "Full REST backend for restaurant ratings, JWT authentication, and Excel reports"
+      },
+      "description": {
+        "ar": "خادم RESTful متكامل مبني باستخدام Express و TypeScript وقاعدة بيانات MongoDB عبر Mongoose، يتضمن نظام توثيق JWT، وإرسال بريد إلكتروني، وتوليد جداول إكسل تحليلية باستخدام ExcelJS.",
+        "en": "Backend web service using Express, TypeScript, and MongoDB (Mongoose). Features secure cookie-based JWT authentication, automated email dispatching, and dynamic Excel report generation with ExcelJS."
+      },
+      "timeline": {
+        "startDate": "2025-05",
+        "endDate": "2025-06",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "مايو 2025 - يونيو 2025",
+          "en": "May 2025 - Jun 2025"
+        }
+      },
+      "tags": [
+        "Express",
+        "TypeScript",
+        "MongoDB",
+        "Mongoose",
+        "JWT Auth",
+        "ExcelJS",
+        "REST API"
+      ],
+      "githubUrl": "https://github.com/aboodedc/review_muhammad",
+      "liveDemoUrl": null,
+      "featured": false,
+      "date": "2025",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "standard",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "خادم ويب وتحليلات (REST Backend & Reporting)",
+        "en": "REST Backend & Reporting"
+      },
+      "metrics": {
+        "techComplexity": "Medium (Express, MongoDB, JWT, ExcelJS)",
+        "scale": "Backend Service"
+      },
+      "problem": {
+        "ar": "فقدان أصحاب المطاعم للرؤية اللحظية حول آراء الزوار، وصعوبة استخراج سجلات وتقارير دورية منظمة للمبيعات والجودة بدون أنظمة إدارة باهظة التكلفة.",
+        "en": "Restaurant managers lack real-time visibility into customer sentiment and find it burdensome to export organized recurring feedback audits without costly enterprise subscriptions."
+      },
+      "solution": {
+        "ar": "تطوير خادم RESTful متكامل بـ Express و MongoDB مع توثيق JWT، يتيح استلام المراجعات فورياً وتوليد تقارير Excel مخصصة تلقائياً عبر ExcelJS مع إرسال إشعارات فورية.",
+        "en": "Built an Express & MongoDB REST backend with JWT authentication, enabling customer review collection and dynamic generation of Excel audit spreadsheets via ExcelJS with automated email dispatching."
+      },
+      "sector": {
+        "key": "commercial_enterprise",
+        "ar": "حلول تجارية ومؤسسية",
+        "en": "Commercial & Enterprise Solutions"
+      },
+      "impactArea": [
+        "commercial",
+        "institutional_building"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "face-detection-cv",
+      "type": "project",
+      "source": "local",
+      "visibility": "public_local",
+      "title": {
+        "ar": "نظام التعرف على الوجوه بالرؤية الحاسوبية (Face Recognition System)",
+        "en": "Real-Time Face Recognition System (OpenCV & Python)"
+      },
+      "subtitle": {
+        "ar": "نظام ذكي للتعرف على الوجوه المسجلة ومقارنة الملامح في الوقت الحقيقي",
+        "en": "Computer vision application detecting and recognizing faces via camera feed"
+      },
+      "description": {
+        "ar": "تطبيق بايثون يعتمد على مكتبات الرؤية الحاسوبية والتعلم الآلي (face_recognition و OpenCV) لمقارنة الوجوه في البث الحي وتصنيف الأشخاص المسجلين في قاعدة البيانات بدقة.",
+        "en": "Computer vision pipeline utilizing OpenCV and deep-learning facial embeddings (face_recognition) to detect and recognize pre-enrolled individuals in live video feeds."
+      },
+      "timeline": {
+        "startDate": "2024-02",
+        "endDate": "2024-04",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "فبراير 2024 - أبريل 2024",
+          "en": "Feb 2024 - Apr 2024"
+        }
+      },
+      "tags": [
+        "Python",
+        "OpenCV",
+        "Computer Vision",
+        "Face Recognition",
+        "Machine Learning"
+      ],
+      "githubUrl": "https://github.com/aboodedc",
+      "liveDemoUrl": null,
+      "featured": false,
+      "date": "2024",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "standard",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "رؤية حاسوبية (Computer Vision)",
+        "en": "Computer Vision"
+      },
+      "metrics": {
+        "techComplexity": "Medium-High (OpenCV, Facial Embeddings, Python)",
+        "scale": "ML Pipeline"
+      },
+      "problem": {
+        "ar": "الحاجة لنظام حضور أو مراقبة ذكي يتعرف على وجوه الأشخاص المصرح لهم من كاميرا البث المباشر بدون الاعتماد على خدمات سحابية خارجية مكلفة أو منتهكة للخصوصية.",
+        "en": "Need for an on-premise, privacy-preserving face recognition pipeline from live video feeds without recurring cloud API fees or external latency."
+      },
+      "solution": {
+        "ar": "بناء مسار رؤية حاسوبية باستخدام Python و OpenCV ومكتبة face_recognition لمقارنة البصمات الوجهية (Facial Embeddings) محلياً مع الوجوه المسجلة مسبقاً في أجزاء من الثانية.",
+        "en": "Implemented a local computer vision pipeline in Python leveraging OpenCV and deep facial embeddings (face_recognition) to detect and match pre-registered faces in real time with high accuracy."
+      },
+      "sector": {
+        "key": "security_cv",
+        "ar": "أمن ورؤية حاسوبية",
+        "en": "Security & Computer Vision"
+      },
+      "impactArea": [
+        "scientific_research",
+        "security"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "react-xo-game-shop",
+      "type": "project",
+      "source": "github",
+      "visibility": "public",
+      "title": {
+        "ar": "لعبة XO التفاعلية مع متجر المظاهر (React Tic-Tac-Toe with Shop)",
+        "en": "Interactive React Tic-Tac-Toe Game with In-Game Customization Shop"
+      },
+      "subtitle": {
+        "ar": "تطبيق ألعاب تفاعلي مبني بـ React مع متجر للأشكال وتسجيل النقاط",
+        "en": "Fun web game built with React, TypeScript, and state management"
+      },
+      "description": {
+        "ar": "تطبيق ويب تفاعلي للعبة Tic-Tac-Toe الكلاسيكية يتيح اللعب المشترك واختيار أشكال وثيمات مخصصة من متجر العناصر مع متابعة النتائج والنقاط.",
+        "en": "Engaging web game featuring custom player skins, score tracking, animated state transitions, and responsive design built with React and TypeScript."
+      },
+      "timeline": {
+        "startDate": "2023-09",
+        "endDate": "2023-09",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "سبتمبر 2023",
+          "en": "Sep 2023"
+        }
+      },
+      "tags": [
+        "React",
+        "TypeScript",
+        "State Management",
+        "CSS Animations"
+      ],
+      "githubUrl": "https://github.com/aboodedc/React-Game-XO-with-shop",
+      "liveDemoUrl": null,
+      "featured": false,
+      "date": "2023",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "standard",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "لعبة ويب تفاعلية (Interactive Web Game)",
+        "en": "Interactive Web Game"
+      },
+      "metrics": {
+        "techComplexity": "Low-Medium (React, State Management, Custom Themes)",
+        "scale": "Client-side Game"
+      },
+      "problem": {
+        "ar": "ألعاب الويب الكلاسيكية (مثل Tic-Tac-Toe) غالباً ما تكون بسيطة جداً وتفتقر لعوامل الجذب التفاعلي وإعادة اللعب والتحفيز.",
+        "en": "Traditional browser Tic-Tac-Toe implementations are monotonous, lacking dynamic progression, visual customization, and replay incentives."
+      },
+      "solution": {
+        "ar": "إعادة ابتكار التجربة عبر بناء متجر عناصر مدمج يتيح للاعب استخدام نقاط الفوز لشراء مظاهر وأشكال مميزة للأزرار، مع حركة سلسة وتصميم متجاوب في React.",
+        "en": "Reimagined the classic game by adding an in-game cosmetic shop where players spend earned victory points on custom skins and themes, built with clean React state management."
+      },
+      "sector": {
+        "key": "learning_showcase",
+        "ar": "مشروع تعليمي وعرض مهارات",
+        "en": "Learning Showcase"
+      },
+      "impactArea": [
+        "education",
+        "entertainment"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "webrtc-signaling-mesh",
+      "type": "project",
+      "source": "local",
+      "visibility": "public_local",
+      "title": {
+        "ar": "خادم إشارات WebRTC واتصال الند للند (WebRTC Real-time Signaling Engine)",
+        "en": "WebRTC Real-time Signaling Engine (Socket.IO & Node.js)"
+      },
+      "subtitle": {
+        "ar": "محرك إشارات لحظي لتبادل عروض SDP وحزم ICE لإنشاء قنوات اتصال P2P فائقة السرعة",
+        "en": "Signaling server facilitating peer-to-peer WebRTC data channels and media exchange"
+      },
+      "description": {
+        "ar": "خادم مخصص لتبادل إشارات WebRTC مبني على Node.js و Express و Socket.IO لإدارة غرف الاتصال وتمرير حزم SDP و ICE Candidates لإنشاء مسارات اتصال مباشر منخفض التأخير.",
+        "en": "Node.js and Socket.IO signaling service orchestrating WebRTC peer connections, room handshakes, and ICE candidate negotiation for real-time peer-to-peer data channels."
+      },
+      "timeline": {
+        "startDate": "2025-01",
+        "endDate": "2025-03",
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "يناير 2025 - مارس 2025",
+          "en": "Jan 2025 - Mar 2025"
+        }
+      },
+      "tags": [
+        "WebRTC",
+        "Socket.IO",
+        "TypeScript",
+        "Node.js",
+        "P2P Networks"
+      ],
+      "githubUrl": "https://github.com/aboodedc",
+      "liveDemoUrl": null,
+      "featured": false,
+      "date": "2025",
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "standard",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "شبكات وتواصل لحظي (Real-time P2P Signaling)",
+        "en": "Real-time P2P Signaling"
+      },
+      "metrics": {
+        "techComplexity": "Medium-High (Socket.IO, WebRTC Handshakes, TypeScript)",
+        "scale": "Microservice"
+      },
+      "problem": {
+        "ar": "الاتصال المباشر بين الأجهزة (P2P Data Channels) يتطلب وسيطاً خفيفاً وسريعاً للغاية لتبادل مفاتيح الاتصال (SDP و ICE Candidates) دون أن يمثل اختناقاً لبيانات البث.",
+        "en": "Establishing direct peer-to-peer data channels requires a reliable, lightweight signaling mediator to exchange SDP offers and ICE candidates without acting as a data bandwidth bottleneck."
+      },
+      "solution": {
+        "ar": "برمجة خادم إشارات خفيف وقوي بـ Node.js و Socket.IO لإدارة غرف الاتصال وتمرير حزم التنسيق اللحظية بنجاح ثم الانسحاب لترك مسار البيانات P2P حراً تماماً.",
+        "en": "Engineered a specialized signaling microservice using Node.js and Socket.IO to manage room handshakes and seamlessly route SDP/ICE payloads, enabling direct, high-bandwidth peer-to-peer data channels."
+      },
+      "sector": {
+        "key": "infrastructure",
+        "ar": "بنية تحتية وبروتوكولات",
+        "en": "Infrastructure & Protocols"
+      },
+      "impactArea": [
+        "open_source",
+        "infrastructure"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    }
+  ],
+  "research": [
+    {
+      "id": "research-1",
+      "type": "research",
+      "title": {
+        "ar": "تحليل أداء خوارزميات التخزين المؤقت وضبط معدل الطلبات في الأنظمة الموزعة",
+        "en": "Performance Analysis of Cache Eviction Policies & Rate-Limiting Mechanics in Distributed Systems"
+      },
+      "status": {
+        "ar": "قيد التنفيذ / مسودة",
+        "en": "In Progress / Draft"
+      },
+      "abstract": {
+        "ar": "دراسة تقييمية مقارنة لكفاءة خوارزميات التخزين المؤقت (LRU, LFU) واستراتيجيات ضبط تدفق الطلبات (Token Bucket vs Sliding Window) في الأنظمة الحديثة المعتمدة على Redis و PostgreSQL لتقليل زمن الاستجابة وضمان ثبات البنية التحتية.",
+        "en": "A comparative evaluation of cache eviction policies and sliding-window rate limiting mechanisms in distributed architectures using Redis and relational databases to minimize latency and ensure fault tolerance."
+      },
+      "timeline": {
+        "startDate": "2025-09",
+        "endDate": null,
+        "isOngoing": true,
+        "displayDate": {
+          "ar": "سبتمبر 2025 - حتى الآن",
+          "en": "Sep 2025 - Present"
+        }
+      },
+      "keywords": [
+        {
+          "ar": "الأنظمة الموزعة",
+          "en": "Distributed Systems"
+        },
+        {
+          "ar": "خوارزميات التخزين المؤقت",
+          "en": "Caching Algorithms"
+        },
+        {
+          "ar": "ضبط معدل الطلبات",
+          "en": "Rate Limiting"
+        },
+        {
+          "ar": "تحسين الأداء",
+          "en": "Performance Tuning"
+        }
+      ],
+      "tags": [
+        "Distributed Systems",
+        "Caching Algorithms",
+        "Rate Limiting",
+        "Redis",
+        "Performance Tuning"
+      ],
+      "pdfUrl": "https://sss.codes/papers/caching-research.pdf",
+      "githubRepo": "https://github.com/aboodedc",
+      "date": "2026",
+      "hidden": true
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "type": "experience",
+      "role": {
+        "ar": "مهندس برمجيات ونظم كاملة (مشاريع حرة وتطوير أنظمة)",
+        "en": "Software & Systems Engineer (Independent & Contract Projects)"
+      },
+      "company": {
+        "ar": "مشاريع تقنية مستقلة وحلول برمجية",
+        "en": "Independent Technical Solutions & System Development"
+      },
+      "location": {
+        "ar": "الرياض، المملكة العربية السعودية",
+        "en": "Riyadh, Saudi Arabia"
+      },
+      "timeline": {
+        "startDate": "2023-06",
+        "endDate": null,
+        "isOngoing": true,
+        "displayDate": {
+          "ar": "يونيو 2023 - حتى الآن",
+          "en": "Jun 2023 - Present"
+        }
+      },
+      "description": {
+        "ar": "تصميم وتنفيذ أنظمة برمجية متكاملة تشمل محاكاة العتاد، وتطبيقات إنترنت الأشياء، وبناء خوادم RESTful و Fastify/NestJS عالية الأداء، ومنصات ويب تفاعلية باستخدام Next.js و React.",
+        "en": "Architected and built full-stack solutions and systems software, encompassing virtual hardware emulation (ViGEmBus / WebRTC), IoT firmware & mobile integrations (ESP8266 & Flutter), and scalable backend APIs."
+      },
+      "highlights": [
+        {
+          "ar": "تطوير نظام VGamepadWeb لبث إشارات التحكم بزمن تأخير منخفض جداً عبر WebRTC ومحاكاة أجهزة الإدخال برمجياً",
+          "en": "Developed VGamepadWeb to stream low-latency gamepad inputs over WebRTC while emulating Xbox hardware on Windows"
+        },
+        {
+          "ar": "بناء منصة تقييم ذكية بتقنية NFC مع تطبيق خوارزميات ضبط الطلبات وتخزين آمن عبر S3 و Redis",
+          "en": "Engineered an NFC-driven customer feedback platform featuring distributed rate limiting, Redis caching, and S3 integration"
+        },
+        {
+          "ar": "تصميم خدمات الواجهة الخلفية للأوقاف بنظام NestJS و Fastify مع توليد تقارير أوتوماتيكية",
+          "en": "Designed high-throughput enterprise backend for endowment management utilizing NestJS, Fastify, and PostgreSQL"
+        }
+      ],
+      "skills": [
+        "TypeScript",
+        "C# / .NET",
+        "Next.js",
+        "NestJS",
+        "Flutter",
+        "PostgreSQL",
+        "Redis",
+        "WebRTC",
+        "Git"
+      ],
+      "date": "2023 - Present"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "type": "education",
+      "degree": {
+        "ar": "بكالوريوس في علوم الحاسب",
+        "en": "Bachelor of Science in Computer Science"
+      },
+      "institution": {
+        "ar": "الجامعة الاسلامية بالمدينة المنورة / المملكة العربية السعودية",
+        "en": "Islamic University of Madinah / Saudi Arabia"
+      },
+      "location": {
+        "ar": "المدينة المنورة، المملكة العربية السعودية",
+        "en": "Madinah, Saudi Arabia"
+      },
+      "timeline": {
+        "startDate": "2023-12",
+        "endDate": "2027-06",
+        "isOngoing": true,
+        "displayDate": {
+          "ar": "2023 - 2027",
+          "en": "2023 - 2027"
+        }
+      },
+      "period": {
+        "ar": "2023 - 2027 (متوقع)",
+        "en": "2023 - 2027 (Expected)"
+      },
+      "highlights": [
+        {
+          "ar": "التركيز على هندسة الأنظمة والبرمجيات منخفضة المستوى والشبكات",
+          "en": "Focus on Systems Engineering, Low-Level Software, and Networking"
+        },
+        {
+          "ar": "أداء مشاريع عملية متقدمة في مجالات الـ Full-Stack، والـ IoT، والمحاكاة الافتراضية",
+          "en": "Delivered advanced practical projects in Full-Stack, IoT, and Virtual Emulation"
+        }
+      ],
+      "date": "2023 - 2027"
+    }
+  ]
+}
