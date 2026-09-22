@@ -2,18 +2,19 @@
   "personalInfo": {
     "name": {
       "ar": "عبدالرحمن عبدالحكيم الحطاب",
-      "en": "Abdulrahman Abdelhakim Al-Hattab"
+      "en": "ABDULRAHMAN ABDULHAKIM ALHATAB"
     },
     "title": {
-      "ar": "طالب علوم حاسب ومهندس نظم وبرمجيات كاملة (Full-Stack & Systems Engineer)",
-      "en": "Computer Science Student & Systems / Full-Stack Engineer"
+      "ar": "مهندس برمجيات Full-Stack وأنظمة — Next.js و NestJS و TypeScript",
+      "en": "Full-Stack & Systems Engineer — Next.js, NestJS, TypeScript"
     },
-    "domain": "abdullrahmanalhatab.com",
+    "domain": "alhatab.dev",
     "location": {
       "ar": "الرياض، المملكة العربية السعودية",
       "en": "Riyadh, Saudi Arabia"
     },
     "email": "alhatab.edc@gmail.com",
+    "phone": "+966570250504",
     "github": "https://github.com/aboodedc",
     "linkedin": "https://www.linkedin.com/in/abdullrahman-alhatab/",
     "avatarUrl": "",
@@ -32,8 +33,8 @@
       "en": "https://alhatabisthebest.codes/resume-en.pdf"
     },
     "bio": {
-      "ar": "طالب علوم حاسب وشغوف بهندسة النظم منخفضة المستوى، والأنظمة الموزعة، ومحاكاة العتاد (Emulation)، وتطوير تطبيقات الويب والـ Full-Stack عالية الأداء بمختلف التقنيات الحديثة مثل Next.js، NestJS، Fastify، و C#/.NET و Flutter و Python.",
-      "en": "Computer Science student passionate about low-level systems engineering, distributed architectures, hardware emulation, and building scalable full-stack web and mobile applications using Next.js, NestJS, Fastify, C#/.NET, Flutter, and Python."
+      "ar": "مهندس برمجيات Full-Stack وأنظمة بخبرة تتجاوز 3 سنوات في بناء منصات ويب إنتاجية وأنظمة خلفية مؤسسية وحلول إنترنت الأشياء والعتاد. متخصص في Next.js و TypeScript و NestJS/Fastify و PostgreSQL و Redis و AWS S3 و Flutter وبروتوكولات الزمن الحقيقي (WebRTC و WebSockets و MQTT). أنجز منصة SaaS للتقييم عبر NFC مع ضبط معدل الطلبات، ونظام أوقاف مؤسسي مع تقارير Excel مؤتمتة، ونظام محاكاة يد تحكم بزمن استجابة أقل من 50ms عبر ViGEmBus. طالب بكالوريوس علوم حاسب (متوقع 2027)، متاح للعمل بدوام كامل أو العقود في الرياض وعن بعد.",
+      "en": "Full-Stack & Systems Engineer with 3+ years building production web platforms, enterprise backends, and IoT/hardware systems. Specialized in Next.js, React, TypeScript, NestJS/Fastify, PostgreSQL, Redis, AWS S3, Flutter, and real-time protocols (WebRTC, WebSockets, MQTT). Delivered an NFC-based customer feedback SaaS with distributed rate limiting and S3 media pipelines, an enterprise endowment platform with automated Excel reporting, and sub-50ms browser-to-PC gamepad emulation via ViGEmBus. B.S. Computer Science candidate (expected 2027), open to full-time and contract roles in Riyadh and remote."
     }
   },
   "skills": {
@@ -192,50 +193,55 @@
           "experience": "advanced"
         },
         {
-          "name": "Docker",
+          "name": "Swagger / OpenAPI",
           "experience": "advanced"
         }
       ]
     },
     "csFundamentals": {
       "title": {
-        "ar": "أساسيات علوم الحاسب",
-        "en": "Computer Science Fundamentals"
+        "ar": "أساسيات علوم الحاسب وهندسة البرمجيات",
+        "en": "Software Engineering & CS Fundamentals"
       },
       "items": [
         {
-          "name": {
-            "ar": "الأنظمة الموزعة والتواصل اللحظي (WebRTC / WebSockets)",
-            "en": "Distributed Systems & Real-Time Communication (WebRTC / WebSockets)"
-          },
-          "experience": "expert"
-        },
-        {
-          "name": {
-            "ar": "هندسة المحاكاة وتفاعل العتاد (Hardware Emulation & Virtual Controllers)",
-            "en": "Hardware Emulation & Virtual Controllers Interaction"
-          },
-          "experience": "expert"
-        },
-        {
-          "name": {
-            "ar": "هياكل البيانات والخوارزميات والتخزين المؤقت (Caching Algorithms)",
-            "en": "Data Structures, Algorithms & Caching Mechanics"
-          },
+          "name": "Distributed Systems",
           "experience": "advanced"
         },
         {
-          "name": {
-            "ar": "أمان واستقرار واجهات البرمجيات وضبط المعدل (Rate Limiting & Token Auth)",
-            "en": "API Security, Rate Limiting & Authentication Protocols"
-          },
+          "name": "REST API Design",
           "experience": "advanced"
         },
         {
-          "name": {
-            "ar": "معمارية الأنظمة والميكروسيرفيس (Clean Architecture & Modular Backend)",
-            "en": "Clean Architecture & Modular Backend Design"
-          },
+          "name": "WebRTC",
+          "experience": "advanced"
+        },
+        {
+          "name": "WebSockets",
+          "experience": "advanced"
+        },
+        {
+          "name": "Hardware Emulation",
+          "experience": "expert"
+        },
+        {
+          "name": "Data Structures & Algorithms",
+          "experience": "advanced"
+        },
+        {
+          "name": "Redis Caching",
+          "experience": "advanced"
+        },
+        {
+          "name": "API Security & Rate Limiting",
+          "experience": "advanced"
+        },
+        {
+          "name": "JWT Authentication",
+          "experience": "advanced"
+        },
+        {
+          "name": "Clean Architecture & Microservices",
           "experience": "advanced"
         }
       ]
@@ -260,13 +266,9 @@
         "en": "A cutting-edge platform turning any phone or browser into a wireless PC gamepad without installs. Runs a Windows server emulating physical Xbox controllers via ViGEmBus, streaming high-frequency inputs over WebSockets and WebRTC Data Channels with ultra-low latency."
       },
       "timeline": {
-        "startDate": "2024-06",
-        "endDate": null,
-        "isOngoing": true,
-        "displayDate": {
-          "ar": "يونيو 2024 - مستمر",
-          "en": "Jun 2024 - Present"
-        }
+        "startDate": "2026-05",
+        "endDate": "2026-06",
+        "isOngoing": false
       },
       "tags": [
         "C#",
@@ -281,14 +283,13 @@
       "githubUrl": "https://github.com/aboodedc/VGamepadWeb",
       "liveDemoUrl": null,
       "featured": true,
-      "date": "2024 - 2026",
       "status": {
-        "key": "in_progress",
-        "ar": "قيد التطوير والتحديث",
-        "en": "In Active Development"
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
       },
-      "completionPercentage": 95,
-      "tier": "medium",
+      "completionPercentage": 100,
+      "tier": "small",
       "isMajor": false,
       "highlightBadge": {
         "ar": "مشروع متوسط",
@@ -340,13 +341,9 @@
         "en": "A comprehensive customer feedback ecosystem built with Next.js 16, React 19, Prisma ORM, and PostgreSQL. Features distributed rate limiting via Upstash Redis, media asset storage with AWS S3, secure authentication, and modern responsive UI."
       },
       "timeline": {
-        "startDate": "2024-01",
-        "endDate": "2025-05",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "يناير 2024 - مايو 2025",
-          "en": "Jan 2024 - May 2025"
-        }
+        "startDate": "2025-10",
+        "endDate": null,
+        "isOngoing": false
       },
       "tags": [
         "Next.js 16",
@@ -358,17 +355,16 @@
         "NFC Tech",
         "TypeScript"
       ],
-      "githubUrl": "https://github.com/aboodedc/smart_rate_review",
-      "liveDemoUrl": null,
+      "githubUrl": "",
+      "liveDemoUrl": "https://taptagksa.com",
       "featured": true,
-      "date": "2024 - 2025",
       "status": {
         "key": "completed",
         "ar": "مكتمل وجاهز للإنتاج",
         "en": "Completed / Production-Ready"
       },
       "completionPercentage": 100,
-      "tier": "major",
+      "tier": "large",
       "isMajor": true,
       "highlightBadge": {
         "ar": "مشروع رئيسي متكامل (Enterprise Full-Stack)",
@@ -399,7 +395,7 @@
         "thumbnail": "",
         "assets": []
       },
-      "hasDetailView": true
+      "hasDetailView": false
     },
     {
       "id": "waqf-app-ecosystem",
@@ -421,11 +417,7 @@
       "timeline": {
         "startDate": "2025-04",
         "endDate": "2026-04",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "أبريل 2025 - أبريل 2026",
-          "en": "Apr 2025 - Apr 2026"
-        }
+        "isOngoing": false
       },
       "tags": [
         "NestJS",
@@ -437,17 +429,16 @@
         "TypeScript",
         "Enterprise Architecture"
       ],
-      "githubUrl": "https://github.com/aboodedc/waqf_app",
+      "githubUrl": "",
       "liveDemoUrl": null,
       "featured": true,
-      "date": "2025 - 2026",
       "status": {
         "key": "completed",
         "ar": "مكتمل البنية الأساسية",
         "en": "Core Architecture Completed"
       },
       "completionPercentage": 95,
-      "tier": "major",
+      "tier": "large",
       "isMajor": true,
       "highlightBadge": {
         "ar": "مشروع مؤسسي ضخم (Enterprise Architecture)",
@@ -500,11 +491,7 @@
       "timeline": {
         "startDate": "2024-12",
         "endDate": "2025-02",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "ديسمبر 2024 - فبراير 2025",
-          "en": "Dec 2024 - Feb 2025"
-        }
+        "isOngoing": false
       },
       "tags": [
         "Flutter",
@@ -515,17 +502,16 @@
         "MQTT",
         "C++"
       ],
-      "githubUrl": "https://github.com/aboodedc/open_door_home",
+      "githubUrl": "",
       "liveDemoUrl": null,
       "featured": true,
-      "date": "2024 - 2025",
       "status": {
         "key": "completed",
         "ar": "مكتمل ومُختبر في بيئة حية",
         "en": "Completed & Field Tested"
       },
       "completionPercentage": 100,
-      "tier": "highlighted",
+      "tier": "small",
       "isMajor": false,
       "highlightBadge": {
         "ar": "مشروع إنترنت أشياء متميز (IoT & Hardware)",
@@ -559,236 +545,6 @@
       "hasDetailView": true
     },
     {
-      "id": "quiz-tanstack-start",
-      "type": "project",
-      "source": "local_and_github",
-      "visibility": "private",
-      "title": {
-        "ar": "منصة الاختبارات والمسابقات التفاعلية (Kwizi / Quiz UI)",
-        "en": "Kwizi — Modern Interactive Quiz Platform"
-      },
-      "subtitle": {
-        "ar": "تطبيق مسابقات واختبارات مبني بأحدث تقنيات الـ Full-Stack الحديثة (TanStack Start & Vite 8)",
-        "en": "High-performance quiz platform using TanStack Start SSR, TanStack Router, and Biome"
-      },
-      "description": {
-        "ar": "تطبيق مسابقات متطور مبني بأحدث أدوات الويب الحديثة: TanStack Start SSR مع Vite 8، React 19، TanStack Router و Query لإدارة التوجيه والبيانات اللحظية، وتنسيقات Tailwind CSS v4، مع تدقيق كود سريع باستخدام Biome ومراقبة الأخطاء عبر Sentry.",
-        "en": "Modern interactive quiz application engineered with TanStack Start SSR, Vite 8, React 19, TanStack Router and Query for state management, Tailwind CSS v4, Biome linter, and Sentry telemetry."
-      },
-      "timeline": {
-        "startDate": "2026-05",
-        "endDate": null,
-        "isOngoing": true,
-        "displayDate": {
-          "ar": "مايو 2026 - مستمر",
-          "en": "May 2026 - Present"
-        }
-      },
-      "tags": [
-        "TanStack Start",
-        "React 19",
-        "Vite 8",
-        "TailwindCSS v4",
-        "TanStack Query",
-        "TypeScript",
-        "Biome"
-      ],
-      "githubUrl": "https://github.com/aboodedc/kwizi",
-      "liveDemoUrl": null,
-      "featured": true,
-      "date": "2026",
-      "status": {
-        "key": "in_progress",
-        "ar": "قيد العمل والتطوير",
-        "en": "In Progress"
-      },
-      "completionPercentage": 70,
-      "tier": "highlighted",
-      "isMajor": false,
-      "highlightBadge": {
-        "ar": "مشروع تقني حديث (Cutting-Edge Stack)",
-        "en": "Cutting-Edge Stack"
-      },
-      "metrics": {
-        "techComplexity": "Medium-High (TanStack Start, Vite 8, React 19, Biome, Sentry)",
-        "scale": "Modern SSR Web App"
-      },
-      "problem": {
-        "ar": "بطء تحميل منصات الاختبارات الإلكترونية التقليدية وثقل حزم الجافاسكريبت، وضعف تجربة المستخدم اللحظية أثناء التنقل بين الأسئلة ومتابعة النتائج التفاعلية.",
-        "en": "Traditional online assessment portals often suffer from bloated client bundles, slow server response times, and poor transitions between interactive exam questions."
-      },
-      "solution": {
-        "ar": "تبني أحدث تقنيات الويب الحديثة (TanStack Start SSR + Vite 8 + React 19) لتحقيق تحميل فوري للصفحات، مع إدارة توجيه متقدمة (TanStack Router & Query)، وتدقيق أداء عالي بالاعتماد على Biome وتتبع الأخطاء الحي عبر Sentry.",
-        "en": "Leveraged cutting-edge full-stack technologies (TanStack Start SSR, Vite 8, React 19) for blazing-fast initial loads and seamless client transitions, coupled with TanStack Router/Query, lightning-fast Biome linting, and real-time Sentry telemetry."
-      },
-      "sector": {
-        "key": "education",
-        "ar": "تعليم واختبارات",
-        "en": "Education & Assessment"
-      },
-      "impactArea": [
-        "education"
-      ],
-      "media": {
-        "thumbnail": "",
-        "assets": []
-      },
-      "hasDetailView": true
-    },
-    {
-      "id": "cemuhook-dsu-motion-server",
-      "type": "project",
-      "source": "local",
-      "visibility": "public_local",
-      "title": {
-        "ar": "خادم محاكاة الحركة ومستشعرات الجيروسكوب (CemuHook DSU Motion Server)",
-        "en": "CemuHook DSU Motion Server for Emulators"
-      },
-      "subtitle": {
-        "ar": "خادم مخصص لبث بيانات الجيروسكوب والتسارع لمحاكيات الألعاب مثل Cemu و Yuzu و Ryujinx",
-        "en": "Custom UDP motion server streaming gyro & accelerometer data to modern console emulators"
-      },
-      "description": {
-        "ar": "تنفيذ برمجي منخفض المستوى لبروتوكول DSU عبر حزم UDP الثنائية، يقوم بحساب وتجميع وتوزيع بيانات مستشعرات الحركة (Gyroscope & Accelerometer) بتردد 120Hz مع تشفير وتوافق CRC32 لتمكين التحكم الحركي في المحاكيات الشهيرة.",
-        "en": "Low-level implementation of the Cemuhook DSU protocol using binary UDP packets with CRC32 checksums. Calculates and streams synthetic or hardware-derived 6-axis gyroscope and accelerometer data at 120Hz to emulators such as Cemu and Ryujinx."
-      },
-      "timeline": {
-        "startDate": "2024-03",
-        "endDate": "2024-05",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "مارس 2024 - مايو 2024",
-          "en": "Mar 2024 - May 2024"
-        }
-      },
-      "tags": [
-        "Python",
-        "Networking",
-        "UDP",
-        "Binary Protocols",
-        "Game Emulation",
-        "DSU Protocol"
-      ],
-      "githubUrl": "https://github.com/aboodedc",
-      "liveDemoUrl": null,
-      "featured": false,
-      "date": "2024",
-      "status": {
-        "key": "completed",
-        "ar": "مكتمل ومُجرب",
-        "en": "Completed"
-      },
-      "completionPercentage": 100,
-      "tier": "standard",
-      "isMajor": false,
-      "highlightBadge": {
-        "ar": "مشروع أنظمة منخفضة المستوى (Systems & Networking)",
-        "en": "Systems & Networking"
-      },
-      "metrics": {
-        "techComplexity": "High (Binary Packets, UDP, 120Hz Math & Motion Sensors, CRC32)",
-        "scale": "Standalone Protocol Server"
-      },
-      "problem": {
-        "ar": "محاكيات ألعاب الكونسول (مثل Cemu و Ryujinx) تتطلب مستشعرات جيروسكوب وتسارع للتحكم الحركي، ولكن أغلب أذرع التحكم بالحاسب تفتقر لهذه الميزة أو لبروتوكول بث معتمد، مما يمنع تجربة ألعاب الحركة بالكامل.",
-        "en": "Modern console emulators require motion gyro and accelerometer sensor inputs for essential gameplay mechanics, yet standard PC gamepads lack integrated motion sensors or standard streaming protocol support."
-      },
-      "solution": {
-        "ar": "بناء خادم DSU خفيف وعالي التردد بلغة بايثون يبث حزم UDP ثنائية متوافقة تماماً مع CemuHook بتردد 120Hz، مع حساب وتشفير الـ Checksums ومحاكاة زوايا الحركة بدقة فائقة لتمكين اللعب السلس.",
-        "en": "Crafted a high-frequency Python DSU server implementing the CemuHook UDP binary protocol at 120Hz. Accurately synthesizes or translates 6-axis gyroscope and accelerometer data packets with CRC32 verification, providing flawless motion control in emulators."
-      },
-      "sector": {
-        "key": "gaming_systems",
-        "ar": "أنظمة ألعاب ومحاكاة",
-        "en": "Gaming & Emulation Systems"
-      },
-      "impactArea": [
-        "entertainment",
-        "open_source"
-      ],
-      "media": {
-        "thumbnail": "",
-        "assets": []
-      },
-      "hasDetailView": false
-    },
-    {
-      "id": "prayer-clock-islamic",
-      "type": "project",
-      "source": "local",
-      "visibility": "public_local",
-      "title": {
-        "ar": "ساعة الصلاة وأوقات الأذان الذكية — Islamic Prayer Clock",
-        "en": "Islamic Prayer Clock & Adhan Display App"
-      },
-      "subtitle": {
-        "ar": "تطبيق ساعة جدارية وشاشات ذكية لعرض أوقات الصلاة والعد التنازلي بدقة عالية",
-        "en": "Smart display and mobile application for astronomical prayer times and countdowns"
-      },
-      "description": {
-        "ar": "تطبيق تم بناؤه بواسطة Flutter متعدد المنصات (شاشات، جوال، ويب) لحساب مواقيت الصلاة الفلكية وعرض الساعات والأذكار بتصميم رقمي متوافق مع مختلف أحجام الشاشات.",
-        "en": "Cross-platform Flutter application tailored for smart displays and tablets calculating astronomical prayer times with countdowns, athan notifications, and responsive UI."
-      },
-      "timeline": {
-        "startDate": "2024-08",
-        "endDate": "2024-11",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "أغسطس 2024 - نوفمبر 2024",
-          "en": "Aug 2024 - Nov 2024"
-        }
-      },
-      "tags": [
-        "Flutter",
-        "Dart",
-        "Mobile App",
-        "Astronomical Calculations",
-        "Cross-Platform"
-      ],
-      "githubUrl": "https://github.com/aboodedc",
-      "liveDemoUrl": null,
-      "featured": false,
-      "date": "2024",
-      "status": {
-        "key": "completed",
-        "ar": "مكتمل",
-        "en": "Completed"
-      },
-      "completionPercentage": 100,
-      "tier": "standard",
-      "isMajor": false,
-      "highlightBadge": {
-        "ar": "تطبيق جوال وشاشات (Mobile & Display App)",
-        "en": "Mobile & Display App"
-      },
-      "metrics": {
-        "techComplexity": "Medium (Flutter, Astronomical Prayer Calculation algorithms)",
-        "scale": "Cross-platform Application"
-      },
-      "problem": {
-        "ar": "صعوبة الحصول على واجهة عرض مخصصة للشاشات الجدارية والمنازل تحسب مواقيت الصلاة الفلكية الدقيقة محلياً دون الحاجة لاتصال إنترنت دائم، مع توفير واجهة هادئة خالية من التشتيت.",
-        "en": "Lack of dedicated, distraction-free display applications designed for wall-mounted smart screens and tablets that calculate offline astronomical prayer times accurately with real-time athan countdowns."
-      },
-      "solution": {
-        "ar": "تطوير تطبيق Flutter متكامل يدمج خوارزميات الحساب الفلكي الدقيقة مع واجهة رقمية واضحة ومتباينة مخصصة للشاشات، تدعم العمل دون إنترنت مع تنبيهات وعد تنازلي لحظي.",
-        "en": "Built an offline-capable cross-platform Flutter application incorporating astronomical calculation algorithms with a high-contrast, distraction-free UI tailored for tablets and wall clocks."
-      },
-      "sector": {
-        "key": "islamic_spiritual",
-        "ar": "شرعي / روحاني — مواقيت الصلاة",
-        "en": "Islamic / Spiritual — Prayer Times"
-      },
-      "impactArea": [
-        "islamic_sharia",
-        "community_service"
-      ],
-      "media": {
-        "thumbnail": "",
-        "assets": []
-      },
-      "hasDetailView": true
-    },
-    {
       "id": "whatsapp-ai-bot",
       "type": "project",
       "source": "local_and_github",
@@ -808,11 +564,7 @@
       "timeline": {
         "startDate": "2024-07",
         "endDate": "2024-08",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "يوليو 2024 - أغسطس 2024",
-          "en": "Jul 2024 - Aug 2024"
-        }
+        "isOngoing": false
       },
       "tags": [
         "TypeScript",
@@ -821,17 +573,16 @@
         "WhatsApp API",
         "Automation"
       ],
-      "githubUrl": "https://github.com/aboodedc/pot_whatsapp_ts",
+      "githubUrl": "",
       "liveDemoUrl": null,
       "featured": false,
-      "date": "2024",
       "status": {
         "key": "completed",
         "ar": "مكتمل",
         "en": "Completed"
       },
       "completionPercentage": 100,
-      "tier": "standard",
+      "tier": "small",
       "isMajor": false,
       "highlightBadge": {
         "ar": "أتمتة وذكاء اصطناعي (AI Automation)",
@@ -884,11 +635,7 @@
       "timeline": {
         "startDate": "2025-05",
         "endDate": "2025-06",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "مايو 2025 - يونيو 2025",
-          "en": "May 2025 - Jun 2025"
-        }
+        "isOngoing": false
       },
       "tags": [
         "Express",
@@ -899,17 +646,16 @@
         "ExcelJS",
         "REST API"
       ],
-      "githubUrl": "https://github.com/aboodedc/review_muhammad",
+      "githubUrl": null,
       "liveDemoUrl": null,
       "featured": false,
-      "date": "2025",
       "status": {
         "key": "completed",
         "ar": "مكتمل",
         "en": "Completed"
       },
       "completionPercentage": 100,
-      "tier": "standard",
+      "tier": "small",
       "isMajor": false,
       "highlightBadge": {
         "ar": "خادم ويب وتحليلات (REST Backend & Reporting)",
@@ -962,11 +708,7 @@
       "timeline": {
         "startDate": "2024-02",
         "endDate": "2024-04",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "فبراير 2024 - أبريل 2024",
-          "en": "Feb 2024 - Apr 2024"
-        }
+        "isOngoing": false
       },
       "tags": [
         "Python",
@@ -975,17 +717,16 @@
         "Face Recognition",
         "Machine Learning"
       ],
-      "githubUrl": "https://github.com/aboodedc",
+      "githubUrl": null,
       "liveDemoUrl": null,
       "featured": false,
-      "date": "2024",
       "status": {
         "key": "completed",
         "ar": "مكتمل",
         "en": "Completed"
       },
       "completionPercentage": 100,
-      "tier": "standard",
+      "tier": "small",
       "isMajor": false,
       "highlightBadge": {
         "ar": "رؤية حاسوبية (Computer Vision)",
@@ -1038,11 +779,7 @@
       "timeline": {
         "startDate": "2023-09",
         "endDate": "2023-09",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "سبتمبر 2023",
-          "en": "Sep 2023"
-        }
+        "isOngoing": false
       },
       "tags": [
         "React",
@@ -1053,14 +790,13 @@
       "githubUrl": "https://github.com/aboodedc/React-Game-XO-with-shop",
       "liveDemoUrl": null,
       "featured": false,
-      "date": "2023",
       "status": {
         "key": "completed",
         "ar": "مكتمل",
         "en": "Completed"
       },
       "completionPercentage": 100,
-      "tier": "standard",
+      "tier": "small",
       "isMajor": false,
       "highlightBadge": {
         "ar": "لعبة ويب تفاعلية (Interactive Web Game)",
@@ -1094,74 +830,583 @@
       "hasDetailView": false
     },
     {
-      "id": "webrtc-signaling-mesh",
+      "id": "film-director-portfolio",
       "type": "project",
-      "source": "local",
-      "visibility": "public_local",
+      "source": "local_and_github",
+      "visibility": "private_or_team",
       "title": {
-        "ar": "خادم إشارات WebRTC واتصال الند للند (WebRTC Real-time Signaling Engine)",
-        "en": "WebRTC Real-time Signaling Engine (Socket.IO & Node.js)"
+        "ar": "منصة معرض الأعمال لمخرج أفلام — Film Director Portfolio",
+        "en": "Film Director Showcase Platform"
       },
       "subtitle": {
-        "ar": "محرك إشارات لحظي لتبادل عروض SDP وحزم ICE لإنشاء قنوات اتصال P2P فائقة السرعة",
-        "en": "Signaling server facilitating peer-to-peer WebRTC data channels and media exchange"
+        "ar": "منصة ويب متكاملة وتفاعلية لاستعراض الأعمال والإنتاجات السينمائية مبنية باستخدام Next.js 13 و TypeScript",
+        "en": "Custom web platform built to showcase a film director's portfolio and cinematic productions using Next.js 13 & TypeScript"
       },
       "description": {
-        "ar": "خادم مخصص لتبادل إشارات WebRTC مبني على Node.js و Express و Socket.IO لإدارة غرف الاتصال وتمرير حزم SDP و ICE Candidates لإنشاء مسارات اتصال مباشر منخفض التأخير.",
-        "en": "Node.js and Socket.IO signaling service orchestrating WebRTC peer connections, room handshakes, and ICE candidate negotiation for real-time peer-to-peer data channels."
+        "ar": "تطبيق ويب مخصص لمخرج أفلام لعرض السيرة الذاتية، الأعمال السينمائية، الإعلانات الترويجية (Trailers)، ومعارض الصور عالية الدقة. تم بناء المنصة باستخدام Next.js 13 و TypeScript لتوفير أداء فائق وتصفح سلس، مع ربط قاعدة بيانات MongoDB عبر Mongoose لإدارة محتوى الأفلام والوسائط المتعددة.",
+        "en": "A full-stack client web application created for a film director to present showreels, movie catalogs, press releases, and production credits. Developed with Next.js 13, TypeScript, and Tailwind CSS, featuring a Mongoose database setup for dynamic media and metadata management."
       },
       "timeline": {
-        "startDate": "2025-01",
-        "endDate": "2025-03",
-        "isOngoing": false,
-        "displayDate": {
-          "ar": "يناير 2025 - مارس 2025",
-          "en": "Jan 2025 - Mar 2025"
-        }
+        "startDate": "2023-06",
+        "endDate": "2023-10",
+        "isOngoing": false
       },
       "tags": [
-        "WebRTC",
-        "Socket.IO",
+        "Next.js 13",
         "TypeScript",
-        "Node.js",
-        "P2P Networks"
+        "Tailwind CSS",
+        "Mongoose",
+        "MongoDB",
+        "FTP / Asset Sync"
       ],
-      "githubUrl": "https://github.com/aboodedc",
-      "liveDemoUrl": null,
+      "githubUrl": "",
+      "liveDemoUrl": "",
       "featured": false,
-      "date": "2025",
       "status": {
         "key": "completed",
         "ar": "مكتمل",
         "en": "Completed"
       },
       "completionPercentage": 100,
+      "tier": "small",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "تطوير منصة إعلامية (Media & Portfolio)",
+        "en": "Client Media Web App"
+      },
+      "metrics": {
+        "techComplexity": "Medium (Next.js 13, TypeScript, Mongoose, Tailwind CSS)",
+        "scale": "Client / Media Showcase Web Application"
+      },
+      "problem": {
+        "ar": "حاجة المخرج إلى منصة رقمية ذات طابع بصري سينمائي تستعرض أعماله الدرامية والوثائقية بشكل منظم، مع إمكانية عرض تفاصيل المشاريع وتصنيفها دون الاعتماد على المنصات الخارجية العامة.",
+        "en": "The client required a visually compelling, branded web presence to showcase filmography, video reels, and production milestones with customized filtering and fast media delivery."
+      },
+      "solution": {
+        "ar": "هندسة وبناء موقع ويب متجاوب يعتمد على Next.js 13 و TypeScript، مع هيكلة بيانات المحتوى السينمائي باستخدام Mongoose، وتصميم واجهة مستخدم مظلمة (Dark Theme) تناسب الطابع السينمائي عبر Tailwind CSS.",
+        "en": "Designed and engineered a responsive client portfolio using Next.js 13, TypeScript, and Tailwind CSS. Implemented Mongoose schemas to manage film metadata, release dates, and video embeds efficiently."
+      },
+      "sector": {
+        "key": "media_and_entertainment",
+        "ar": "الإعلام والإنتاج السينمائي",
+        "en": "Media & Cinematic Production"
+      },
+      "impactArea": [
+        "client_project",
+        "web_development",
+        "media"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "auto-google-forms-quiz-builder",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private_or_team",
+      "title": {
+        "ar": "مُنشئ الاختبارات التلقائي لـ Google Forms — Auto Quiz Builder",
+        "en": "Auto Google Forms Quiz Builder (.NET WinForms)"
+      },
+      "subtitle": {
+        "ar": "تطبيق سطح مكتب لأتمتة إنشاء وبناء الاختبارات الإلكترونية على Google Forms باستخدام .NET WinForms و Google APIs",
+        "en": "Desktop application for automated creation and deployment of Google Forms quizzes using .NET WinForms and Google APIs"
+      },
+      "description": {
+        "ar": "تطبيق سطح مكتب مخصص للمعلمين لأتمتة عملية إنشاء الاختبارات الإلكترونية (Quizzes). يتيح التطبيق للمعلم إدخال الأسئلة وإجاباتها وتحديد الخيارات عبر واجهة مستخدم منظمة، ثم يتكفل التطبيق بالتواصل الآلي مع Google Forms API وإنشاء النموذج بجميع إعداداته مباشرة داخل حساب Google الخاص بالمعلم باستخدام بروتوكول OAuth 2.0.",
+        "en": "A .NET WinForms desktop application engineered to streamline and automate quiz creation for educators. Enables structured step-by-step entry of questions and choices, then automatically generates and formats a fully configured quiz directly on the teacher's Google Account via Google Forms API and Google OAuth 2.0."
+      },
+      "timeline": {
+        "startDate": "2023-01",
+        "endDate": "2023-01",
+        "isOngoing": false
+      },
+      "tags": [
+        ".NET WinForms",
+        "C#",
+        "Google Forms API",
+        "Google Auth / OAuth 2.0",
+        "Desktop App",
+        "Task Automation"
+      ],
+      "githubUrl": "",
+      "liveDemoUrl": "",
+      "featured": false,
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "small",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "أتمتة وتكامل مع Google APIs",
+        "en": "Desktop & API Automation"
+      },
+      "metrics": {
+        "techComplexity": "Medium (.NET C#, Google Forms API, OAuth 2.0 Authentication)",
+        "scale": "Desktop Automation Utility for Educators"
+      },
+      "problem": {
+        "ar": "المجهود اليدوي المستهلك للوقت والتعقيد عند إدخال الأسئلة وتجهيز إعدادات الاختبارات إلكترونياً على واجهة Google Forms التقليدية سؤالاً بسؤال.",
+        "en": "Educators spend significant repetitive effort manually adding questions, choices, and answer keys through the standard Google Forms web UI."
+      },
+      "solution": {
+        "ar": "تطوير برنامج سطح مكتب يبسط عملية إدخال الأسئلة متسلسلة، ويقوم عند الإنهاء بإرسال طلبات متكاملة إلى Google Forms API لتشديد الأتمتة وإنشاء نموذج الاختبار فورياً بحساب المعلم.",
+        "en": "Engineered a .NET desktop application that simplifies batch question input and leverages the Google Forms API to instantly generate and configure quizzes hands-free."
+      },
+      "sector": {
+        "key": "edtech_automation",
+        "ar": "التقنيات التعليمية والأتمتة",
+        "en": "EdTech & Task Automation"
+      },
+      "impactArea": [
+        "education",
+        "desktop_application",
+        "automation"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "physics-triangle-generator",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private_or_team",
+      "title": {
+        "ar": "مُولِّد مثلثات قوانين الفيزياء عبر قوالب Word — Physics Formula Triangle Generator",
+        "en": "Physics Formula Triangle Generator (.NET WinForms & Word Automation)"
+      },
+      "subtitle": {
+        "ar": "تطبيق سطح مكتب لأتمتة ملء قوالب Microsoft Word بالقوانين الفيزيائية وتصديرها تلقائياً إلى صور",
+        "en": "Desktop automation app for dynamic Microsoft Word template population and automated image export"
+      },
+      "description": {
+        "ar": "تطبيق سطح مكتب بلغة C# ونظام .NET WinForms مخصص لمعلمي الفيزياء، يتيح إدخال مجموعة من القوانين والمعادلات الفيزيائية وتوليد بطاقات \"مثلثات القوانين\" آلياً. يعتمد التطبيق على تقنيات أتمتة المستندات (Office Automation / MS Word Interop) لدمج البيانات والقوانين داخل قوالب Word مصممة مسبقاً، ثم معالجة المستندات وتحويلها فورياً إلى صور عالية الدقة وتصديرها بدفعة واحدة.",
+        "en": "A .NET WinForms desktop application built in C# to help physics educators automatically generate formula triangle diagrams. The app leverages Microsoft Word Automation (Office Interop) to programmatically inject physics equations into pre-designed Word templates, process the layout, and convert the resulting document pages into high-resolution image files."
+      },
+      "timeline": {
+        "startDate": "2022-01",
+        "endDate": "2022-05",
+        "isOngoing": false
+      },
+      "tags": [
+        ".NET WinForms",
+        "C#",
+        "MS Word Interop / OpenXML",
+        "Office Automation",
+        "Word Templates",
+        "Docx to Image",
+        "EdTech"
+      ],
+      "githubUrl": "",
+      "liveDemoUrl": "",
+      "featured": false,
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "small",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "أتمتة مستندات Word وتوليد الصور (Word Interop & Automation)",
+        "en": "Word Automation & Image Export"
+      },
+      "metrics": {
+        "techComplexity": "Medium (.NET C#, MS Word Interop, Office Document Automation, Docx Rendering)",
+        "scale": "Desktop Automation Utility for Educators"
+      },
+      "problem": {
+        "ar": "صعوبة وضياع الوقت في تعديل تنسيقات القوانين الفيزيائية داخل ملفات Word يدوياً لكل قانون على حدة، ثم حفظ المستندات وتصدير كل صفحة أو شكل إلى صورة بشكل يدوي.",
+        "en": "Educators faced tedious manual tasks when repeatedly modifying physics formulas inside Word templates and extracting each page or object manually into image formats for printing or exams."
+      },
+      "solution": {
+        "ar": "تطوير محرك أتمتة يربط واجهة WinForms بمستندات Word، حيث يتم استبدال خانات البيانات (Placeholders) بالقوانين والمدخلات آلياً، ثم تحويل قوالب Word المعالجة مباشرة إلى ملفات صور جاهزة للاستخدام.",
+        "en": "Engineered an automation engine that interfaces WinForms with Word document objects, replacing placeholders with user formulas programmatically and instantly batch-rendering the resulting Word files into images."
+      },
+      "sector": {
+        "key": "edtech_automation",
+        "ar": "أتمتة المستندات والتقنيات التعليمية",
+        "en": "Document Automation & EdTech"
+      },
+      "impactArea": [
+        "education",
+        "desktop_application",
+        "automation"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "destroy-the-box-dtb",
+      "type": "project",
+      "source": "gamejolt_and_local",
+      "visibility": "public",
+      "title": {
+        "ar": "لعبة تدمير الصناديق — Destroy the Box (Dtb)",
+        "en": "Destroy the Box (Dtb)"
+      },
+      "subtitle": {
+        "ar": "لعبة أكشن واستكشاف ثلاثية الأبعاد (3D) مطورة باستخدام محرك Unity ومطبقة لآليات الرماية والانتقال بين المراحل",
+        "en": "3D action and exploration game built with Unity Engine featuring weapon mechanics and level progression"
+      },
+      "description": {
+        "ar": "لعبة أكشن واستكشاف ثلاثية الأبعاد (3D) تم تطويرها ونشرها على منصة GameJolt. يتحكم اللاعب بشخصية مجهزة بسلاح لاستكشاف الخريطة البحث عن صناديق وتدميرها للانتقال إلى المرحلة التالية. تتضمن اللعبة برمجة الفيزياء، حركة الشخصية، واستجابة الأهداف وتصميم المراحل باستخدام C# ومحرك Unity.",
+        "en": "A 3D action-exploration game developed with Unity and published on GameJolt. Players control a armed character who explores maps to locate and destroy target boxes to advance through levels. Implements player movement, weapon shooting mechanics, collision detection, and level progression scripts in C#."
+      },
+      "timeline": {
+        "startDate": "2020-01",
+        "endDate": "2020-03",
+        "isOngoing": false
+      },
+      "tags": [
+        "Unity 3D",
+        "C#",
+        "Game Development",
+        "3D Physics",
+        "Level Design",
+        "GameJolt"
+      ],
+      "githubUrl": "",
+      "liveDemoUrl": "https://gamejolt.com/games/Dtb/471561",
+      "featured": false,
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل ومستضيف على GameJolt",
+        "en": "Completed & Published on GameJolt"
+      },
+      "completionPercentage": 100,
+      "tier": "small",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "تطوير ألعاب ثلاثية الأبعاد (3D Game Dev)",
+        "en": "3D Game Development"
+      },
+      "metrics": {
+        "techComplexity": "Medium (Unity 3D, C# Gameplay Logic, Collision Detection, Level Progression)",
+        "scale": "Indie 3D Game Release"
+      },
+      "problem": {
+        "ar": "تحدي بناء دورة لعب (Gameplay Loop) ثلاثية الأبعاد ممتعة مع ضبط فيزياء التصادم وحركة السلاح والتنقل بين المراحل بسلاسة داخل بيئة Unity.",
+        "en": "Designing a seamless 3D action loop, configuring player physics, shooting mechanics, and dynamic level transitions within Unity."
+      },
+      "solution": {
+        "ar": "برمجة اللعبة بلغة C# للتحكم بالحركة وتوجيه السلاح، وبناء نظام تفاعلي لتحديد الصناديق المطلوبة وتدميرها وتفعيل بوابة الانتقال للمرحلة التالية، وتصدير اللعبة ونشرها على منصة GameJolt.",
+        "en": "Programmed core player controls and weapon mechanics in C#, built object interaction and box destruction logic, and successfully published the playable build on GameJolt."
+      },
+      "sector": {
+        "key": "game_development",
+        "ar": "تطوير الألعاب والوسائط التفاعلية",
+        "en": "Game Development & Interactive Media"
+      },
+      "impactArea": [
+        "game_development",
+        "entertainment",
+        "3d_graphics"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "infinite-road-2d",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "public",
+      "title": {
+        "ar": "لعبة الطريق اللانهائي — Infinite Road",
+        "en": "Infinite Road (2D Game)"
+      },
+      "subtitle": {
+        "ar": "لعبة سيارات ثنائية الأبعاد (2D) تعتمد على تجنب العقبات عبر ثلاثة مسارات مطورة باستخدام محرك Godot",
+        "en": "2D lane-switching endless car runner game built with Godot Engine"
+      },
+      "description": {
+        "ar": "لعبة سيارات ثنائية الأبعاد (2D Endless Runner) مطورة باستخدام محرك Godot Engine. يتنقل اللاعب بسيارة عبر ثلاثة مسارات لتفادي الحواجز والعقبات المتوالية والبقاء لأطول فترة ممكنة. تتضمن اللعبة برمجة حركة السيارة بين المسارات، كشف التصادم، والتوليد العشوائي للحواجز باستخدام GDScript.",
+        "en": "A 2D endless runner car game developed using the Godot Engine. Players navigate a vehicle across three lanes to dodge incoming obstacles and score points. Implemented using GDScript for smooth lane-changing mechanics, collision detection, endless background scrolling, and obstacle spawner logic."
+      },
+      "timeline": {
+        "startDate": "2023-01",
+        "endDate": "2023-03",
+        "isOngoing": false
+      },
+      "tags": [
+        "Godot Engine",
+        "GDScript",
+        "2D Game Dev",
+        "Endless Runner",
+        "Game Physics",
+        "Indie Game"
+      ],
+      "githubUrl": "",
+      "liveDemoUrl": "",
+      "featured": false,
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "tier": "small",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "تطوير ألعاب ثنائية الأبعاد (Godot 2D Engine)",
+        "en": "Godot 2D Game Dev"
+      },
+      "metrics": {
+        "techComplexity": "Light-Medium (Godot Engine, GDScript, 2D Lane Switching Mechanics, Dynamic Spawning)",
+        "scale": "Indie 2D Arcade Game"
+      },
+      "problem": {
+        "ar": "تحدي بناء نظام حركة سريع واستجابة دقيقة للتنقل بين ثلاثة مسارات محددة مع توليد الحواجز بشكل عشوائي دون التأثير على أداء وسلاسة اللعبة.",
+        "en": "Designing a fast and responsive 3-lane navigation system with randomized obstacle spawning and smooth collision detection in Godot."
+      },
+      "solution": {
+        "ar": "برمجة منطق التحكم باستخدام GDScript للتحويل السلس بين المسارات الثلاثة، واستخدام عقد Godot (2D Nodes) لإدارة حركة الخلفية غير المنتهية وتوليد الحواجز بديناميكية.",
+        "en": "Engineered smooth lane-changing controls using GDScript, implemented infinite scrolling environment mechanics, and managed dynamic obstacle spawning using Godot 2D nodes."
+      },
+      "sector": {
+        "key": "game_development",
+        "ar": "تطوير الألعاب والوسائط التفاعلية",
+        "en": "Game Development & Interactive Media"
+      },
+      "impactArea": [
+        "game_development",
+        "entertainment",
+        "2d_graphics"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": false
+    },
+    {
+      "id": "salah-app",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private",
+      "title": {
+        "ar": "تطبيق الصلاة — مواقيت وأذكار وبوصلة القبلة",
+        "en": "Salah App — Prayer Times, Adhkar & Qibla Compass"
+      },
+      "subtitle": {
+        "ar": "رفيق الصلاة لشاشات AMOLED مع عرض دائم وأذكار مميزة بالنجمة واقتراحات حسب الوقت",
+        "en": "AMOLED always-on prayer companion with starred adhkar, time-based suggestions, and Qibla compass"
+      },
+      "description": {
+        "ar": "تطبيق جوال متكامل للصلاة مبني بـ Flutter، يعرض مواقيت الصلاة بدقة، ويتيح تمييز الأذكار المفضلة بنجمة للوصول السريع، ويقترح أذكار الصباح والمساء حسب الوقت، مع بوصلة قبلة مدمجة ودعم كامل لشاشات AMOLED مع وضع العرض الدائم، إضافة إلى ميزات صغيرة مساعدة للاستخدام اليومي.",
+        "en": "A complete prayer companion mobile app built with Flutter. Shows accurate prayer times, lets users star favorite adhkar for quick access, suggests morning and evening adhkar based on the time of day, includes a built-in Qibla compass, and fully supports AMOLED screens with always-on display mode, plus handy small extras for daily use."
+      },
+      "timeline": {
+        "startDate": "2026-08",
+        "endDate": null,
+        "isOngoing": true
+      },
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Mobile App",
+        "Qibla Compass",
+        "Prayer Times",
+        "AMOLED Always-On"
+      ],
+      "githubUrl": "",
+      "liveDemoUrl": null,
+      "featured": true,
+      "status": {
+        "key": "in_progress",
+        "ar": "قيد العمل والتطوير",
+        "en": "In Progress"
+      },
+      "completionPercentage": 20,
+      "tier": "medium",
+      "isMajor": false,
+      "highlightBadge": {
+        "ar": "تطبيق جوال (Mobile App)",
+        "en": "Mobile App"
+      },
+      "metrics": {
+        "techComplexity": "Medium (Flutter, Qibla Sensors, Prayer Calculations, AMOLED Always-On)",
+        "scale": "Cross-platform Mobile App"
+      },
+      "problem": {
+        "ar": "تفتقر تطبيقات الصلاة الشائعة إلى تجربة مريحة لشاشات AMOLED مع العرض الدائم، ويصعب فيها تمييز الأذكار المفضلة والوصول إلى اقتراحات مناسبة للوقت مع بوصلة قبلة دقيقة دون تعقيد.",
+        "en": "Common prayer apps lack a comfortable AMOLED experience with always-on display support, and make it hard to star favorite adhkar, get time-appropriate suggestions, and use an accurate Qibla compass without complexity."
+      },
+      "solution": {
+        "ar": "بناء تطبيق Flutter محسّن لشاشات AMOLED مع وضع العرض الدائم، يعرض مواقيت الصلاة، ويسمح بتمييز الأذكار بنجمة، ويقترح أذكار الصباح والمساء حسب الوقت، مع بوصلة قبلة مدمجة وميزات صغيرة مساعدة.",
+        "en": "Built a Flutter app optimized for AMOLED screens with always-on display mode, showing prayer times, starring favorite adhkar, suggesting morning and evening adhkar based on time of day, with a built-in Qibla compass and handy small extras."
+      },
+      "sector": {
+        "key": "islamic_spiritual",
+        "ar": "شرعي — مواقيت الصلاة",
+        "en": "Islamic / Spiritual — Prayer Times"
+      },
+      "impactArea": [
+        "islamic_sharia",
+        "community_service"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": true
+    },
+    {
+      "id": "quiz-saas-platform",
+      "type": "project",
+      "source": "local_and_github",
+      "visibility": "private",
+      "title": {
+        "ar": "منصة اختبارات SaaS — تصحيح بالكاميرا للأفراد والمؤسسات",
+        "en": "QuizSaaS — Camera-Graded Exams for Users & Enterprises"
+      },
+      "subtitle": {
+        "ar": "منصة اختبارات SaaS متعددة المستأجرين مع تصحيح بالكاميرا وأنواع أسئلة متنوعة",
+        "en": "Multi-tenant quiz SaaS with camera scan grading and many question types for individuals and enterprises"
+      },
+      "description": {
+        "ar": "منصة اختبارات SaaS متعددة المستأجرين تخدم الأفراد والمؤسسات، تدعم أنواعاً كثيرة من الأسئلة والاختبارات، وتصحح أوراق الإجابات الورقية عبر مسح الكاميرا، مع لوحات تحكم واشتراكات وصلاحيات لكل مؤسسة.",
+        "en": "A multi-tenant quiz SaaS platform serving individual users and enterprises. Supports many exam and question types, grades paper answer sheets via camera scan, and provides per-organization dashboards, subscriptions, and role management."
+      },
+      "timeline": {
+        "startDate": "2026-05",
+        "endDate": null,
+        "isOngoing": true
+      },
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "SaaS",
+        "Camera Grading",
+        "Multi-tenant",
+        "REST API"
+      ],
+      "githubUrl": "",
+      "liveDemoUrl": null,
+      "featured": true,
+      "status": {
+        "key": "in_progress",
+        "ar": "قيد العمل والتطوير",
+        "en": "In Progress"
+      },
+      "completionPercentage": 45,
+      "tier": "large",
+      "isMajor": true,
+      "highlightBadge": {
+        "ar": "منصة SaaS للمؤسسات (Enterprise SaaS)",
+        "en": "Enterprise SaaS"
+      },
+      "metrics": {
+        "techComplexity": "High (Next.js, Multi-tenancy, Camera OMR Grading, SaaS Billing)",
+        "scale": "Multi-tenant SaaS"
+      },
+      "problem": {
+        "ar": "تصحيح الاختبارات الورقية يدوياً يستهلك وقت المعلمين، ومنصات الاختبارات المتاحة لا تجمع بين التصحيح بالكاميرا وأنواع متنوعة من الأسئلة ونموذج SaaS يخدم الأفراد والمؤسسات معاً.",
+        "en": "Manually grading paper exams consumes teachers' time, and available quiz platforms don't combine camera-based grading with diverse question types and a SaaS model serving both individuals and enterprises."
+      },
+      "solution": {
+        "ar": "بناء منصة SaaS متعددة المستأجرين تدعم أنواعاً كثيرة من الأسئلة، وتصحح أوراق الإجابات عبر مسح الكاميرا، مع لوحات تحكم واشتراكات وصلاحيات مخصصة لكل مؤسسة.",
+        "en": "Building a multi-tenant SaaS platform supporting many question types that grades paper answer sheets via camera scan, with dedicated dashboards, subscriptions, and role management per organization."
+      },
+      "sector": {
+        "key": "education",
+        "ar": "تعليم واختبارات",
+        "en": "Education & Assessment"
+      },
+      "impactArea": [
+        "education",
+        "commercial"
+      ],
+      "media": {
+        "thumbnail": "",
+        "assets": []
+      },
+      "hasDetailView": true
+    },
+    {
+      "id": "subnautica-arabic-localization",
+      "type": "project",
+      "source": "nexusmods",
+      "visibility": "public",
+      "title": {
+        "ar": "تعريب لعبة Subnautica مع إضافة المحاذاة — Subnautica Arabic Localisation",
+        "en": "Subnautica Arabic Localisation & Text Alignment Plugin"
+      },
+      "subtitle": {
+        "ar": "مشروع تعريب كامل وتطوير إضافة برمجية (C# BepInEx Plugin) لمعالجة محاذاة اللغة العربية (RTL) والتحديث اللحظي للنصوص داخل Subnautica",
+        "en": "Full Arabic game localization and custom C# BepInEx Unity plugin fixing RTL text alignment and hot-reloading in Subnautica"
+      },
+      "description": {
+        "ar": "مشروع تعريب سينمائي وتفاعلي كامل للعبة Subnautica مع تطوير إضافة برمجية بلغة C# باستخدام إطار عمل BepInEx لمكائن Unity. تعالج الإضافة قصور المحرك في دعم الخطوط العربية الرسمية عبر ضبط اتجاه الكتابة من اليمين إلى اليسار (RTL Fix)، وإصلاح محاذاة عناصر واجهة المستخدم (UI Alignment)، ومحاكاة التحديث اللحظي للنصوص المترجمة (Hot-reloading) دون الحاجة لإعادة تشغيل اللعبة. تم نشر المشروع وتوفيره لمجتمع اللاعبين عبر منصة NexusMods.",
+        "en": "A comprehensive Arabic localization project for Subnautica combined with a custom C# Unity BepInEx plugin. Solves native engine limitations regarding Arabic text rendering (RTL alignment fix), corrects UI element bounds, and implements live hot-reloading for localized string assets. Published on NexusMods for the global gaming community."
+      },
+      "timeline": {
+        "startDate": "2022-06",
+        "endDate": "2022-10",
+        "isOngoing": false
+      },
+      "tags": [
+        "C#",
+        "Unity Modding",
+        "BepInEx",
+        "RTL Text Parsing",
+        "Arabic Localization",
+        "NexusMods",
+        "UI Realignment"
+      ],
+      "githubUrl": "",
+      "liveDemoUrl": "https://www.nexusmods.com/subnautica/mods/1069",
+      "featured": true,
+      "status": {
+        "key": "completed",
+        "ar": "مكتمل ومستضيف على NexusMods",
+        "en": "Completed & Published on NexusMods"
+      },
+      "completionPercentage": 100,
       "tier": "standard",
       "isMajor": false,
       "highlightBadge": {
-        "ar": "شبكات وتواصل لحظي (Real-time P2P Signaling)",
-        "en": "Real-time P2P Signaling"
+        "ar": "تعديل ألعاب وتطوير إضافات C# (Unity Modding & RTL)",
+        "en": "Unity Modding & RTL Fix"
       },
       "metrics": {
-        "techComplexity": "Medium-High (Socket.IO, WebRTC Handshakes, TypeScript)",
-        "scale": "Microservice"
+        "techComplexity": "Medium-High (C# BepInEx, Unity Runtime Hooking, Dynamic Text Hot-Reloading, RTL Formatting)",
+        "scale": "Public Mod with Active Community Downloads on NexusMods"
       },
       "problem": {
-        "ar": "الاتصال المباشر بين الأجهزة (P2P Data Channels) يتطلب وسيطاً خفيفاً وسريعاً للغاية لتبادل مفاتيح الاتصال (SDP و ICE Candidates) دون أن يمثل اختناقاً لبيانات البث.",
-        "en": "Establishing direct peer-to-peer data channels requires a reliable, lightweight signaling mediator to exchange SDP offers and ICE candidates without acting as a data bandwidth bottleneck."
+        "ar": "غياب الدعم الرسمي للغة العربية في لعبة Subnautica، وحدوث تشوهات في الحروف وعكس اتجاهات النصوص (RTL Issues) وتداخل عناصر واجهة المستخدم عند محاولة إضافة ترجمة عربية تقليدية.",
+        "en": "Subnautica lacks official Arabic language support, resulting in broken character rendering, reversed string flow (RTL issues), and UI overlap when injecting raw Arabic translations."
       },
       "solution": {
-        "ar": "برمجة خادم إشارات خفيف وقوي بـ Node.js و Socket.IO لإدارة غرف الاتصال وتمرير حزم التنسيق اللحظية بنجاح ثم الانسحاب لترك مسار البيانات P2P حراً تماماً.",
-        "en": "Engineered a specialized signaling microservice using Node.js and Socket.IO to manage room handshakes and seamlessly route SDP/ICE payloads, enabling direct, high-bandwidth peer-to-peer data channels."
+        "ar": "برمجة إضافة C# تعمل مع إطار BepInEx للربط المباشر مع محرك Unity أثناء التشغيل (Runtime Hooking)، لمعالجة صياغة الخط العربي، ضبط المحاذاة، وتوفير نظام شحن وتحديث نصوص ديناميكي.",
+        "en": "Engineered a C# BepInEx plugin that hooks into Subnautica's Unity runtime UI, correctly formatting RTL string streams, refactoring element bounds, and enabling seamless text asset hot-reloading."
       },
       "sector": {
-        "key": "infrastructure",
-        "ar": "بنية تحتية وبروتوكولات",
-        "en": "Infrastructure & Protocols"
+        "key": "game_modding_and_localization",
+        "ar": "تعديل محركات الألعاب والتعريب",
+        "en": "Game Modding & Localization"
       },
       "impactArea": [
-        "open_source",
-        "infrastructure"
+        "game_development",
+        "localization",
+        "open_source_community"
       ],
       "media": {
         "thumbnail": "",
@@ -1231,12 +1476,12 @@
       "id": "exp-1",
       "type": "experience",
       "role": {
-        "ar": "مهندس برمجيات ونظم كاملة (مشاريع حرة وتطوير أنظمة)",
-        "en": "Software & Systems Engineer (Independent & Contract Projects)"
+        "ar": "مهندس برمجيات Full-Stack (عقود ومشاريع مستقلة)",
+        "en": "Full-Stack Software Engineer (Contract / Independent)"
       },
       "company": {
-        "ar": "مشاريع تقنية مستقلة وحلول برمجية",
-        "en": "Independent Technical Solutions & System Development"
+        "ar": "هندسة تعاقدية مستقلة — الرياض",
+        "en": "Independent Contract Engineering — Riyadh"
       },
       "location": {
         "ar": "الرياض، المملكة العربية السعودية",
@@ -1252,33 +1497,43 @@
         }
       },
       "description": {
-        "ar": "تصميم وتنفيذ أنظمة برمجية متكاملة تشمل محاكاة العتاد، وتطبيقات إنترنت الأشياء، وبناء خوادم RESTful و Fastify/NestJS عالية الأداء، ومنصات ويب تفاعلية باستخدام Next.js و React.",
-        "en": "Architected and built full-stack solutions and systems software, encompassing virtual hardware emulation (ViGEmBus / WebRTC), IoT firmware & mobile integrations (ESP8266 & Flutter), and scalable backend APIs."
+        "ar": "تصميم وبناء حلول Full-Stack إنتاجية وأنظمة خلفية عالية الإنتاجية باستخدام Next.js و NestJS/Fastify و PostgreSQL و Redis و AWS S3، مع تطبيقات Flutter وإنترنت الأشياء ومحاكاة العتاد عبر ViGEmBus و WebRTC.",
+        "en": "Designed and shipped production full-stack platforms and high-throughput backends with Next.js, NestJS/Fastify, PostgreSQL, Redis, and AWS S3, plus Flutter/IoT apps and ViGEmBus + WebRTC hardware emulation."
       },
       "highlights": [
         {
-          "ar": "تطوير نظام VGamepadWeb لبث إشارات التحكم بزمن تأخير منخفض جداً عبر WebRTC ومحاكاة أجهزة الإدخال برمجياً",
-          "en": "Developed VGamepadWeb to stream low-latency gamepad inputs over WebRTC while emulating Xbox hardware on Windows"
+          "ar": "طوّر منصة تقييم عبر NFC باستخدام Next.js 16 و PostgreSQL و Prisma مع حد معدل الطلبات عبر Upstash Redis لمنع الإساءة، وتخزين الوسائط على AWS S3",
+          "en": "Built NFC-based customer feedback SaaS with Next.js 16, PostgreSQL/Prisma, Upstash Redis sliding-window rate limiting to block spam/abuse, and AWS S3 media storage"
         },
         {
-          "ar": "بناء منصة تقييم ذكية بتقنية NFC مع تطبيق خوارزميات ضبط الطلبات وتخزين آمن عبر S3 و Redis",
-          "en": "Engineered an NFC-driven customer feedback platform featuring distributed rate limiting, Redis caching, and S3 integration"
+          "ar": "صمّم واجهة خلفية مؤسسية للأوقاف باستخدام NestJS و Fastify و TypeORM مع توثيق Swagger وتوليد تقارير Excel مؤتمتة عبر ExcelJS وأرشفة وثائق S3",
+          "en": "Architected enterprise endowment backend with NestJS/Fastify, TypeORM/PostgreSQL, Swagger docs, automated ExcelJS ledger reporting, and S3 document archiving"
         },
         {
-          "ar": "تصميم خدمات الواجهة الخلفية للأوقاف بنظام NestJS و Fastify مع توليد تقارير أوتوماتيكية",
-          "en": "Designed high-throughput enterprise backend for endowment management utilizing NestJS, Fastify, and PostgreSQL"
+          "ar": "نفّذ نظام VGamepadWeb لمحاكاة يد Xbox عبر ViGEmBus وبث المدخلات عالية التردد عبر WebRTC Data Channels و WebSockets بزمن استجابة أقل من 50ms دون تثبيت تطبيقات",
+          "en": "Engineered VGamepadWeb zero-install Xbox controller emulation via ViGEmBus, streaming high-frequency inputs over WebRTC Data Channels/WebSockets with sub-50ms latency"
+        },
+        {
+          "ar": "طوّر نظام فتح أبواب IoT باستخدام Flutter و ESP8266 عبر MQTT (HiveMQ) مع أوامر مشفرة واستجابة فورية مختبرة ميدانياً",
+          "en": "Delivered field-tested IoT smart-door system with Flutter + ESP8266 over MQTT (HiveMQ), encrypted commands, and millisecond trigger response"
         }
       ],
       "skills": [
         "TypeScript",
-        "C# / .NET",
         "Next.js",
+        "React",
         "NestJS",
-        "Flutter",
+        "Fastify",
         "PostgreSQL",
+        "Prisma",
         "Redis",
+        "AWS S3",
+        "Flutter",
         "WebRTC",
-        "Git"
+        "C# / .NET",
+        "Git",
+        "Linux",
+        "Docker"
       ],
       "date": "2023 - Present"
     }
@@ -1288,12 +1543,12 @@
       "id": "edu-1",
       "type": "education",
       "degree": {
-        "ar": "بكالوريوس في علوم الحاسب",
-        "en": "Bachelor of Science in Computer Science"
+        "ar": "بكالوريوس علوم الحاسب",
+        "en": "B.S. in Computer Science"
       },
       "institution": {
-        "ar": "الجامعة الاسلامية بالمدينة المنورة / المملكة العربية السعودية",
-        "en": "Islamic University of Madinah / Saudi Arabia"
+        "ar": "الجامعة الإسلامية بالمدينة المنورة",
+        "en": "Islamic University of Madinah"
       },
       "location": {
         "ar": "المدينة المنورة، المملكة العربية السعودية",
@@ -1304,8 +1559,8 @@
         "endDate": "2027-06",
         "isOngoing": true,
         "displayDate": {
-          "ar": "2023 - 2027",
-          "en": "2023 - 2027"
+          "ar": "ديسمبر 2023 - متوقع يونيو 2027",
+          "en": "Dec 2023 - Expected Jun 2027"
         }
       },
       "period": {
@@ -1314,15 +1569,230 @@
       },
       "highlights": [
         {
-          "ar": "التركيز على هندسة الأنظمة والبرمجيات منخفضة المستوى والشبكات",
-          "en": "Focus on Systems Engineering, Low-Level Software, and Networking"
+          "ar": "التركيز: هندسة الأنظمة والبرمجيات والشبكات — هياكل البيانات والخوارزميات وأنظمة التشغيل",
+          "en": "Focus: Systems Engineering, Data Structures & Algorithms, Operating Systems, Networking"
         },
         {
-          "ar": "أداء مشاريع عملية متقدمة في مجالات الـ Full-Stack، والـ IoT، والمحاكاة الافتراضية",
-          "en": "Delivered advanced practical projects in Full-Stack, IoT, and Virtual Emulation"
+          "ar": "مقررات ذات صلة: قواعد البيانات، هندسة البرمجيات، تطوير الويب، إنترنت الأشياء",
+          "en": "Relevant Coursework: Databases, Software Engineering, Web Development, IoT Systems"
+        },
+        {
+          "ar": "مشاريع عملية متقدمة في Full-Stack و IoT والمحاكاة الافتراضية",
+          "en": "Shipped advanced applied projects in Full-Stack, IoT, and hardware emulation alongside degree"
         }
       ],
       "date": "2023 - 2027"
+    }
+  ],
+  "courses": [
+    {
+      "id": "python-basics-michigan",
+      "type": "course",
+      "source": "manual",
+      "hidden": false,
+      "featured": true,
+      "title": {
+        "ar": "أساسيات بايثون (Python Basics)",
+        "en": "Python Basics"
+      },
+      "provider": {
+        "ar": "جامعة ميشيغان",
+        "en": "University of Michigan"
+      },
+      "description": {
+        "ar": "أساسيات البرمجة بلغة بايثون: المتغيرات، الجمل الشرطية والتكرارية، الدوال، وهياكل البيانات مع تطبيقات عملية لحل المشكلات.",
+        "en": "Foundations of Python programming: variables, control flow, functions, and data structures applied to practical problem solving."
+      },
+      "timeline": {
+        "startDate": "2025-11",
+        "endDate": null,
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "نوفمبر 2025",
+          "en": "Nov 2025"
+        }
+      },
+      "skills": [
+        "Python",
+        "Programming Fundamentals"
+      ],
+      "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/0ZQO4DBEWBU6",
+      "credentialId": "0ZQO4DBEWBU6",
+      "status": {
+        "key": "completed",
+        "ar": "مكتملة",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "date": "2025-11"
+    },
+    {
+      "id": "linear-algebra-for-ml-ds",
+      "type": "course",
+      "source": "manual",
+      "hidden": false,
+      "featured": true,
+      "title": {
+        "ar": "الجبر الخطي لتعلم الآلة وعلوم البيانات (Linear Algebra for Machine Learning and Data Science)",
+        "en": "Linear Algebra for Machine Learning and Data Science"
+      },
+      "provider": {
+        "ar": "DeepLearning.AI",
+        "en": "DeepLearning.AI"
+      },
+      "description": {
+        "ar": "الجبر الخطي هو الركيزة الأساسية لفهم المتجهات، مصفوفات البيانات، وآلية عمل خوارزميات تعلم الآلة.",
+        "en": "Linear algebra is the core foundation for understanding vectors, data matrices, and how machine learning algorithms work."
+      },
+      "timeline": {
+        "startDate": "2025-11",
+        "endDate": null,
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "نوفمبر 2025",
+          "en": "Nov 2025"
+        }
+      },
+      "skills": [
+        "Linear Algebra",
+        "Machine Learning"
+      ],
+      "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/0F6QC0930PJ3",
+      "credentialId": "0F6QC0930PJ3",
+      "status": {
+        "key": "completed",
+        "ar": "مكتملة",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "date": "2025-11"
+    },
+    {
+      "id": "calculus-for-ml-ds",
+      "type": "course",
+      "source": "manual",
+      "hidden": false,
+      "featured": true,
+      "title": {
+        "ar": "الحسبان لتعلم الآلة وعلوم البيانات (Calculus for Machine Learning and Data Science)",
+        "en": "Calculus for Machine Learning and Data Science"
+      },
+      "provider": {
+        "ar": "DeepLearning.AI",
+        "en": "DeepLearning.AI"
+      },
+      "description": {
+        "ar": "الحسبان التفاضلي والتكاملي لتعلم الآلة: المشتقات، التدرجات، الأمثلية، ودورها في تدريب النماذج.",
+        "en": "Differential and integral calculus for machine learning: derivatives, gradients, optimization, and their role in training models."
+      },
+      "timeline": {
+        "startDate": "2025-12",
+        "endDate": null,
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "ديسمبر 2025",
+          "en": "Dec 2025"
+        }
+      },
+      "skills": [
+        "Calculus",
+        "Optimization",
+        "Machine Learning"
+      ],
+      "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/ULRE4HJ04U68",
+      "credentialId": "ULRE4HJ04U68",
+      "status": {
+        "key": "completed",
+        "ar": "مكتملة",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "date": "2025-12"
+    },
+    {
+      "id": "probability-statistics-for-ml-ds",
+      "type": "course",
+      "source": "manual",
+      "hidden": false,
+      "featured": true,
+      "title": {
+        "ar": "الاحتمالات والإحصاء لتعلم الآلة وعلوم البيانات (Probability & Statistics for Machine Learning & Data Science)",
+        "en": "Probability & Statistics for Machine Learning & Data Science"
+      },
+      "provider": {
+        "ar": "DeepLearning.AI",
+        "en": "DeepLearning.AI"
+      },
+      "description": {
+        "ar": "أساس جوهري لتحليل البيانات، بناء النماذج التنبؤية، وفهم تقييم الأداء والريبية (Uncertainty) في الذكاء الاصطناعي.",
+        "en": "An essential foundation for data analysis, building predictive models, and understanding performance evaluation and uncertainty in AI."
+      },
+      "timeline": {
+        "startDate": "2025-12",
+        "endDate": null,
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "ديسمبر 2025",
+          "en": "Dec 2025"
+        }
+      },
+      "skills": [
+        "Probability",
+        "Statistics",
+        "Machine Learning"
+      ],
+      "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/ZJKYWS7GMVRF",
+      "credentialId": "ZJKYWS7GMVRF",
+      "status": {
+        "key": "completed",
+        "ar": "مكتملة",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "date": "2025-12"
+    },
+    {
+      "id": "math-for-ml-ds-specialization",
+      "type": "course",
+      "source": "manual",
+      "hidden": false,
+      "featured": true,
+      "title": {
+        "ar": "تخصص الرياضيات لتعلم الآلة وعلوم البيانات (Mathematics for Machine Learning and Data Science)",
+        "en": "Mathematics for Machine Learning and Data Science Specialization"
+      },
+      "provider": {
+        "ar": "DeepLearning.AI",
+        "en": "DeepLearning.AI"
+      },
+      "description": {
+        "ar": "تخصص شامل يجمع ويكمل مواضيع الجبر الخطي، الحسبان، والاحتمالات والإحصاء في مسار متكامل ومتقدم.",
+        "en": "A comprehensive specialization combining linear algebra, calculus, probability, and statistics in one integrated, advanced track."
+      },
+      "timeline": {
+        "startDate": "2025-12",
+        "endDate": null,
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "ديسمبر 2025",
+          "en": "Dec 2025"
+        }
+      },
+      "skills": [
+        "Linear Algebra",
+        "Calculus",
+        "Statistics",
+        "Machine Learning"
+      ],
+      "certificateUrl": "https://www.coursera.org/account/accomplishments/specialization/JS1JNYCFAVZH",
+      "credentialId": "JS1JNYCFAVZH",
+      "status": {
+        "key": "completed",
+        "ar": "مكتملة",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "date": "2025-12"
     }
   ]
 }
