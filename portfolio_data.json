@@ -1793,6 +1793,95 @@
       },
       "completionPercentage": 100,
       "date": "2025-12"
+    },
+    {
+      "id": "kaust-ai-introduction",
+      "type": "course",
+      "source": "manual",
+      "hidden": false,
+      "featured": true,
+      "title": {
+        "ar": "مقدمة في الذكاء الاصطناعي وتعلم الآلة — أكاديمية كاوست",
+        "en": "Introduction to Artificial Intelligence Course"
+      },
+      "provider": {
+        "ar": "جامعة الملك عبد الله للعلوم والتكنولوجيا (أكاديمية كاوست)",
+        "en": "King Abdullah University of Science and Technology (KAUST Academy)"
+      },
+      "description": {
+        "ar": "برنامج تدريبي مكثف بمعدل 40 ساعة بتقدير امتياز، تناول أساسيات وخوارزميات تعلم الآلة، أساسيات التعلم العميق، والتعلم غير الخاضع للإشراف.",
+        "en": "Intensive 40-hour coursework completed with Distinction covering Machine Learning Foundations, ML Algorithms, Fundamentals of Deep Learning, and Unsupervised Learning."
+      },
+      "timeline": {
+        "startDate": "2026-01",
+        "endDate": null,
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "يناير 2026",
+          "en": "Jan 2026"
+        }
+      },
+      "skills": [
+        "Machine Learning Foundations",
+        "Machine Learning Algorithms",
+        "Fundamentals of Deep Learning",
+        "Unsupervised Learning",
+        "Artificial Intelligence"
+      ],
+      "certificateUrl": "/data/courses_certs/ABD_ALRAHMAN_ABD_ALHKIM_ALHTAB_AI_Stage2.pdf",
+      "credentialId": "",
+      "status": {
+        "key": "completed",
+        "ar": "مكتملة بتقدير امتياز",
+        "en": "Completed with Distinction"
+      },
+      "completionPercentage": 100,
+      "date": "2026-01"
+    },
+    {
+      "id": "kaust-advanced-ai-computer-vision",
+      "type": "course",
+      "source": "manual",
+      "hidden": false,
+      "featured": true,
+      "title": {
+        "ar": "الذكاء الاصطناعي المتقدم والرؤية الحاسوبية — أكاديمية كاوست",
+        "en": "Advanced Artificial Intelligence Course"
+      },
+      "provider": {
+        "ar": "جامعة الملك عبد الله للعلوم والتكنولوجيا (أكاديمية كاوست)",
+        "en": "King Abdullah University of Science and Technology (KAUST Academy)"
+      },
+      "description": {
+        "ar": "برنامج تدريبي مكثف بمعدل 40 ساعة في تقنيات الرؤية الحاسوبية المتقدمة، شمل مجموعات البيانات وتعزيزها، النقل التعلمي، تجزئة الصور، واكتشاف الكائنات.",
+        "en": "Advanced 40-hour coursework covering Computer Vision, Datasets, Data Augmentation, Transfer Learning, Image Segmentation, and Object Detection."
+      },
+      "timeline": {
+        "startDate": "2026-02",
+        "endDate": null,
+        "isOngoing": false,
+        "displayDate": {
+          "ar": "فبراير 2026",
+          "en": "Feb 2026"
+        }
+      },
+      "skills": [
+        "Computer Vision",
+        "Data Augmentation",
+        "Transfer Learning",
+        "Image Segmentation",
+        "Object Detection",
+        "Advanced AI"
+      ],
+      "certificateUrl": "/data/courses_certs/ABD_ALRAHMAN_ABD_ALHKIM_ALHTAB_AI_Stage3.pdf",
+      "credentialId": "",
+      "status": {
+        "key": "completed",
+        "ar": "مكتملة",
+        "en": "Completed"
+      },
+      "completionPercentage": 100,
+      "date": "2026-02"
     }
   ]
 }
